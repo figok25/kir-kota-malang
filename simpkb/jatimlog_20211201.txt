@@ -1,0 +1,315 @@
+2021-12-01 08:31:19 {
+    "VirtualAccount": "100290211201005",
+    "Amount": 96000,
+    "Reference": "JMB167762361",
+    "Nama": "PT SINAR MENTARI GEMILANG",
+    "Tanggal": "2021-12-01 08:31:19"
+}
+2021-12-01 08:31:51 {
+    "VirtualAccount": "100290211201006",
+    "Amount": 96000,
+    "Reference": "JMB167762859",
+    "Nama": "PT SINAR MENTARI GEMILANG",
+    "Tanggal": "2021-12-01 08:31:50"
+}
+2021-12-01 08:32:53 {
+    "VirtualAccount": "100290002112002",
+    "Amount": 85500,
+    "Reference": "JMB167763801",
+    "Nama": "MANSYUR",
+    "Tanggal": "2021-12-01 08:32:52"
+}
+2021-12-01 08:33:45 {
+    "VirtualAccount": "100290211201015",
+    "Amount": 60500,
+    "Reference": "JMB167764564",
+    "Nama": "DJUHARI",
+    "Tanggal": "2021-12-01 08:33:45"
+}
+2021-12-01 08:36:20 {
+    "VirtualAccount": "100290211201002",
+    "Amount": 71000,
+    "Reference": "JMB167766782",
+    "Nama": "SUMARMI",
+    "Tanggal": "2021-12-01 08:36:20"
+}
+2021-12-01 08:37:00 {
+    "VirtualAccount": "100290211201004",
+    "Amount": 71000,
+    "Reference": "JMB167767318",
+    "Nama": "STEFANUS SUTRISNO",
+    "Tanggal": "2021-12-01 08:37:00"
+}
+2021-12-01 08:37:38 {
+    "VirtualAccount": "100290211201017",
+    "Amount": 85500,
+    "Reference": "JMB167767863",
+    "Nama": "MULTI RENTALINDO,PT",
+    "Tanggal": "2021-12-01 08:37:38"
+}
+2021-12-01 08:38:10 {
+    "VirtualAccount": "100290211201008",
+    "Amount": 71000,
+    "Reference": "JMB167768283",
+    "Nama": "HENGKY SUTANTO",
+    "Tanggal": "2021-12-01 08:38:10"
+}
+2021-12-01 08:38:38 {
+    "VirtualAccount": "100290211201018",
+    "Amount": 62000,
+    "Reference": "JMB167768705",
+    "Nama": "R HENDRA SETIAWAN",
+    "Tanggal": "2021-12-01 08:38:38"
+}
+2021-12-01 08:39:11 {
+    "VirtualAccount": "100290002112003",
+    "Amount": 310500,
+    "Reference": "JMB167769164",
+    "Nama": "DRAJAD ARIFIANTO",
+    "Tanggal": "2021-12-01 08:39:11"
+}
+2021-12-01 08:47:19 {
+    "VirtualAccount": "100290211201020",
+    "Amount": 60500,
+    "Reference": "JMB167776513",
+    "Nama": "ELYAWATI",
+    "Tanggal": "2021-12-01 08:47:19"
+}
+2021-12-01 08:47:47 {
+    "VirtualAccount": "100290211201023",
+    "Amount": 87000,
+    "Reference": "JMB167776941",
+    "Nama": "RIFA I",
+    "Tanggal": "2021-12-01 08:47:47"
+}
+2021-12-01 08:48:24 {
+    "VirtualAccount": "100290211201021",
+    "Amount": 60500,
+    "Reference": "JMB167777465",
+    "Nama": "SJIHABUDDIN AHMAD",
+    "Tanggal": "2021-12-01 08:48:24"
+}
+2021-12-01 08:48:58 {
+    "VirtualAccount": "100290211201009",
+    "Amount": 81000,
+    "Reference": "JMB167777976",
+    "Nama": "AHMAD ZAINURROZIQIN",
+    "Tanggal": "2021-12-01 08:48:58"
+}
+2021-12-01 08:49:27 {
+    "VirtualAccount": "100290211201012",
+    "Amount": 67000,
+    "Reference": "JMB167778390",
+    "Nama": "DIDIK SUKASDI",
+    "Tanggal": "2021-12-01 08:49:27"
+}
+2021-12-01 08:49:58 {
+    "VirtualAccount": "100290211201013",
+    "Amount": 85500,
+    "Reference": "JMB167778821",
+    "Nama": "ACHMAD FAUZI",
+    "Tanggal": "2021-12-01 08:49:57"
+}
+2021-12-01 08:51:49 {
+    "VirtualAccount": "100290211201014",
+    "Amount": 85500,
+    "Reference": "JMB167780498",
+    "Nama": "PT AJINOMOTO SALES INDONESIA",
+    "Tanggal": "2021-12-01 08:51:49"
+}
+2021-12-01 08:52:18 {
+    "VirtualAccount": "100290211201019",
+    "Amount": 60500,
+    "Reference": "JMB167780906",
+    "Nama": "SUGIANTO",
+    "Tanggal": "2021-12-01 08:52:18"
+}
+2021-12-01 08:52:46 {
+    "VirtualAccount": "100290211201022",
+    "Amount": 93000,
+    "Reference": "JMB167781317",
+    "Nama": "HERI KUSWANTO",
+    "Tanggal": "2021-12-01 08:52:46"
+}
+2021-12-01 08:59:30 {
+    "VirtualAccount": "100290211201011",
+    "Amount": 60500,
+    "Reference": "JMB167787291",
+    "Nama": "PT. SURYA MADISTRINDO",
+    "Tanggal": "2021-12-01 08:59:30"
+}
+2021-12-01 09:00:05 {
+    "VirtualAccount": "100290211201007",
+    "Amount": 80000,
+    "Reference": "JMB167787779",
+    "Nama": "CATUR KUSUMA BASUKI",
+    "Tanggal": "2021-12-01 09:00:05"
+}
+2021-12-01 09:01:18 {
+    "VirtualAccount": "100290211201027",
+    "Amount": 85500,
+    "Reference": "JMB167788773",
+    "Nama": "POEDJIONO GOENAWAN",
+    "Tanggal": "2021-12-01 09:01:17"
+}
+2021-12-01 09:14:42 {
+    "VirtualAccount": "100290211201028",
+    "Amount": 60500,
+    "Reference": "JMB167800356",
+    "Nama": "PT AJINOMOTO SALES INDONESIA",
+    "Tanggal": "2021-12-01 09:14:42"
+}
+2021-12-01 09:24:26 {
+    "VirtualAccount": "100290002112004",
+    "Amount": 85500,
+    "Reference": "JMB167809171",
+    "Nama": "MOCHAMAD SAIFUDIN",
+    "Tanggal": "2021-12-01 09:24:26"
+}
+2021-12-01 09:24:54 {
+    "VirtualAccount": "100290211201029",
+    "Amount": 60500,
+    "Reference": "JMB167809578",
+    "Nama": "MULYADI",
+    "Tanggal": "2021-12-01 09:24:54"
+}
+2021-12-01 09:25:11 {
+    "VirtualAccount": "100290002112006",
+    "Amount": 85500,
+    "Reference": "JMB167809825",
+    "Nama": "A.P BAYUNG MARWANDHI",
+    "Tanggal": "2021-12-01 09:25:10"
+}
+2021-12-01 09:25:18 {
+    "VirtualAccount": "100290211201030",
+    "Amount": 71000,
+    "Reference": "JMB167809947",
+    "Nama": "PT.JANTI SARANA MATERIAL BETON",
+    "Tanggal": "2021-12-01 09:25:18"
+}
+2021-12-01 09:36:30 {
+    "VirtualAccount": "100290211201026",
+    "Amount": 96000,
+    "Reference": "JMB167821538",
+    "Nama": "MATAHARI PRIMA UTAMA, PT",
+    "Tanggal": "2021-12-01 09:36:30"
+}
+2021-12-01 09:38:09 {
+    "VirtualAccount": "100290211201016",
+    "Amount": 85500,
+    "Reference": "JMB167822898",
+    "Nama": "IKA MARINDRA RAHAYU NENGSIH",
+    "Tanggal": "2021-12-01 09:38:08"
+}
+2021-12-01 09:38:46 {
+    "VirtualAccount": "100290211201001",
+    "Amount": 85500,
+    "Reference": "JMB167823464",
+    "Nama": "BUDI HENDRATA",
+    "Tanggal": "2021-12-01 09:38:46"
+}
+2021-12-01 09:39:41 {
+    "VirtualAccount": "100290211201010",
+    "Amount": 62000,
+    "Reference": "JMB167824220",
+    "Nama": "MURYANI S",
+    "Tanggal": "2021-12-01 09:39:41"
+}
+2021-12-01 09:40:18 {
+    "VirtualAccount": "100290002112001",
+    "Amount": 96000,
+    "Reference": "JMB167824736",
+    "Nama": "IKA ZULFIANA",
+    "Tanggal": "2021-12-01 09:40:18"
+}
+2021-12-01 09:42:13 {
+    "VirtualAccount": "100290211201031",
+    "Amount": 62000,
+    "Reference": "JMB167826295",
+    "Nama": "MUCH.UMAR ALAMUDI",
+    "Tanggal": "2021-12-01 09:42:13"
+}
+2021-12-01 09:52:58 {
+    "VirtualAccount": "100290002112008",
+    "Amount": 85500,
+    "Reference": "JMB167835614",
+    "Nama": "PUGUH ADI PRASETYO",
+    "Tanggal": "2021-12-01 09:52:58"
+}
+2021-12-01 09:53:56 {
+    "VirtualAccount": "100290002112010",
+    "Amount": 84000,
+    "Reference": "JMB167836485",
+    "Nama": "PT CAKRA GUNA KARYA NUSA",
+    "Tanggal": "2021-12-01 09:53:56"
+}
+2021-12-01 09:56:04 {
+    "VirtualAccount": "100290002112011",
+    "Amount": 85500,
+    "Reference": "JMB167838287",
+    "Nama": "DRS. SUTEKAD MM",
+    "Tanggal": "2021-12-01 09:56:03"
+}
+2021-12-01 10:00:02 {
+    "VirtualAccount": "100290211201035",
+    "Amount": 85500,
+    "Reference": "JMB167841881",
+    "Nama": "DEDI SETIAWAN",
+    "Tanggal": "2021-12-01 10:00:01"
+}
+2021-12-01 10:00:25 {
+    "VirtualAccount": "100290211201034",
+    "Amount": 123000,
+    "Reference": "JMB167842204",
+    "Nama": "SLAMET PRIYADI",
+    "Tanggal": "2021-12-01 10:00:25"
+}
+2021-12-01 10:02:29 {
+    "VirtualAccount": "100290002112009",
+    "Amount": 85500,
+    "Reference": "JMB167843989",
+    "Nama": "EKO SUHERTANTO",
+    "Tanggal": "2021-12-01 10:02:29"
+}
+2021-12-01 10:03:53 {
+    "VirtualAccount": "100290211201036",
+    "Amount": 85500,
+    "Reference": "JMB167845266",
+    "Nama": "PUJI PRIAWANTORO",
+    "Tanggal": "2021-12-01 10:03:53"
+}
+2021-12-01 10:16:48 {
+    "VirtualAccount": "100290002112016",
+    "Amount": 85500,
+    "Reference": "JMB167855963",
+    "Nama": "WIWIN SUBIYANTO",
+    "Tanggal": "2021-12-01 10:16:48"
+}
+2021-12-01 10:19:03 {
+    "VirtualAccount": "100290002112015",
+    "Amount": 85500,
+    "Reference": "JMB167857920",
+    "Nama": "SA ID",
+    "Tanggal": "2021-12-01 10:19:03"
+}
+2021-12-01 10:20:14 {
+    "VirtualAccount": "100290002112012",
+    "Amount": 63000,
+    "Reference": "JMB167858913",
+    "Nama": "SUGENG SUNTOYO",
+    "Tanggal": "2021-12-01 10:20:14"
+}
+2021-12-01 10:20:40 {
+    "VirtualAccount": "100290002112013",
+    "Amount": 71000,
+    "Reference": "JMB167859245",
+    "Nama": "CHARLES CHEN",
+    "Tanggal": "2021-12-01 10:20:40"
+}
+2021-12-01 10:56:55 {
+    "VirtualAccount": "100290002112017",
+    "Amount": 404000,
+    "Reference": "JMB167890601",
+    "Nama": "PT SERASI AUTORAYA",
+    "Tanggal": "2021-12-01 10:56:54"
+}

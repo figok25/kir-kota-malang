@@ -1,0 +1,9 @@
+﻿[2020-10-13 20:14:19] BRIVA: 20109002
+[2020-10-13 20:14:19] Database Connected
+[2020-10-13 20:14:21] BRIVA Create: {"status":true,"responseDescription":"Success","responseCode":"00","data":{"institutionCode":"B1UH06370HF","brivaNo":"12142","custCode":"200000003456","nama":"Rohman","amount":"90000","keterangan":"BERKALA - ONLINE 20109002","expiredDate":"2020-10-13 23:59:00"}}
+[2020-10-13 21:11:08] BRIVA: 20109002
+[2020-10-13 21:11:08] Database Connected
+[2020-10-13 21:11:09] BRIVA Create: Gagal membuat BRIVA!
+[2020-10-13 23:42:17] BRIVA: 20109002
+[2020-10-13 23:42:17] Database Connected
+[2020-10-13 23:42:17] BRIVA Create: Gagal membuat BRIVA!

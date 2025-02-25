@@ -1,0 +1,525 @@
+2022-12-29 09:48:21 {
+    "VirtualAccount": "100290221229001",
+    "Amount": 110000,
+    "Reference": "JMB364068612",
+    "Nama": "KOPERASI GL MAJU JAYA",
+    "Tanggal": "2022-12-29 09:47:52"
+}
+2022-12-29 09:48:38 {
+    "VirtualAccount": "100290221229003",
+    "Amount": 143000,
+    "Reference": "JMB364068939",
+    "Nama": "PT JAWA BERKAT LOGISTIK",
+    "Tanggal": "2022-12-29 09:48:10"
+}
+2022-12-29 09:49:20 {
+    "VirtualAccount": "100290221229002",
+    "Amount": 87000,
+    "Reference": "JMB364069621",
+    "Nama": "SOETIONO",
+    "Tanggal": "2022-12-29 09:48:51"
+}
+2022-12-29 09:50:45 {
+    "VirtualAccount": "100290221229006",
+    "Amount": 75000,
+    "Reference": "JMB364071024",
+    "Nama": "SUPARMI",
+    "Tanggal": "2022-12-29 09:50:16"
+}
+2022-12-29 09:51:03 {
+    "VirtualAccount": "100290221229007",
+    "Amount": 100000,
+    "Reference": "JMB364071319",
+    "Nama": "CV INDO CITRA MANDIRI",
+    "Tanggal": "2022-12-29 09:50:35"
+}
+2022-12-29 09:52:25 {
+    "VirtualAccount": "100290221229008",
+    "Amount": 75000,
+    "Reference": "JMB364071665",
+    "Nama": "BOENARI",
+    "Tanggal": "2022-12-29 09:50:55"
+}
+2022-12-29 09:52:26 {
+    "VirtualAccount": "100290221229008",
+    "Amount": 75000,
+    "Reference": "JMB364071665",
+    "Nama": "BOENARI",
+    "Tanggal": "2022-12-29 09:50:55"
+}
+2022-12-29 09:52:37 {
+    "VirtualAccount": "100290221229004",
+    "Amount": 127500.00,
+    "Reference": "JMB364071945",
+    "Nama": "PT INTERNET MADJU ABAD M",
+    "Tanggal": "2022-12-29 09:51:13"
+}
+2022-12-29 09:53:28 {
+    "VirtualAccount": "100290002212598",
+    "Amount": 100000,
+    "Reference": "JMB364072715",
+    "Nama": "JUARI",
+    "Tanggal": "2022-12-29 09:51:57"
+}
+2022-12-29 09:53:28 {
+    "VirtualAccount": "100290002212598",
+    "Amount": 100000,
+    "Reference": "JMB364072715",
+    "Nama": "JUARI",
+    "Tanggal": "2022-12-29 09:51:57"
+}
+2022-12-29 09:54:13 {
+    "VirtualAccount": "100290002212601",
+    "Amount": 100000,
+    "Reference": "JMB364074477",
+    "Nama": "JOKO SUYONO",
+    "Tanggal": "2022-12-29 09:53:45"
+}
+2022-12-29 09:54:33 {
+    "VirtualAccount": "100290221229010",
+    "Amount": 75000,
+    "Reference": "JMB364074775",
+    "Nama": "EVA LATIFAH",
+    "Tanggal": "2022-12-29 09:54:03"
+}
+2022-12-29 09:54:54 {
+    "VirtualAccount": "100290221229009",
+    "Amount": 93500,
+    "Reference": "JMB364075148",
+    "Nama": "YOSEP SUPRIYANTO",
+    "Tanggal": "2022-12-29 09:54:23"
+}
+2022-12-29 09:55:10 {
+    "VirtualAccount": "100290002212600",
+    "Amount": 100000,
+    "Reference": "JMB364075525",
+    "Nama": "ENDANG WINARSIH",
+    "Tanggal": "2022-12-29 09:54:42"
+}
+2022-12-29 09:55:29 {
+    "VirtualAccount": "100290221229011",
+    "Amount": 100000,
+    "Reference": "JMB364075855",
+    "Nama": "SUKIANTO",
+    "Tanggal": "2022-12-29 09:55:00"
+}
+2022-12-29 09:55:45 {
+    "VirtualAccount": "100290221229012",
+    "Amount": 75000,
+    "Reference": "JMB364076128",
+    "Nama": "RIZAL MAULANA",
+    "Tanggal": "2022-12-29 09:55:17"
+}
+2022-12-29 09:56:05 {
+    "VirtualAccount": "100290002212603",
+    "Amount": 110000,
+    "Reference": "JMB364076432",
+    "Nama": "PT. GRAHA RENINDO",
+    "Tanggal": "2022-12-29 09:55:37"
+}
+2022-12-29 09:56:25 {
+    "VirtualAccount": "100290002212602",
+    "Amount": 110000,
+    "Reference": "JMB364076735",
+    "Nama": "PT. SIDOMORO MAKMUR SENTOSA",
+    "Tanggal": "2022-12-29 09:55:54"
+}
+2022-12-29 09:56:50 {
+    "VirtualAccount": "100290221229014",
+    "Amount": 100000,
+    "Reference": "JMB364077161",
+    "Nama": "MOCH. NUR ICHWAN YASIA",
+    "Tanggal": "2022-12-29 09:56:22"
+}
+2022-12-29 09:57:06 {
+    "VirtualAccount": "100290002212604",
+    "Amount": 100000,
+    "Reference": "JMB364077388",
+    "Nama": "ANIS CHUROIDAH",
+    "Tanggal": "2022-12-29 09:56:38"
+}
+2022-12-29 09:57:36 {
+    "VirtualAccount": "100290221229017",
+    "Amount": 100000,
+    "Reference": "JMB364077898",
+    "Nama": "CHOIRUL ISMIANTO",
+    "Tanggal": "2022-12-29 09:57:09"
+}
+2022-12-29 09:58:01 {
+    "VirtualAccount": "100290221229019",
+    "Amount": 85000,
+    "Reference": "JMB364078275",
+    "Nama": "PT JAWA BERKAT UTAMA",
+    "Tanggal": "2022-12-29 09:57:32"
+}
+2022-12-29 09:58:27 {
+    "VirtualAccount": "100290221229021",
+    "Amount": 100000,
+    "Reference": "JMB364078711",
+    "Nama": "SENJAYA WALUYO, A.MD",
+    "Tanggal": "2022-12-29 09:57:59"
+}
+2022-12-29 09:58:47 {
+    "VirtualAccount": "100290221229020",
+    "Amount": 76500,
+    "Reference": "JMB364079001",
+    "Nama": "S U M A R N I",
+    "Tanggal": "2022-12-29 09:58:17"
+}
+2022-12-29 09:59:33 {
+    "VirtualAccount": "100290221229022",
+    "Amount": 118500,
+    "Reference": "JMB364079795",
+    "Nama": "MIADJI SOEWITO",
+    "Tanggal": "2022-12-29 09:59:05"
+}
+2022-12-29 09:59:58 {
+    "VirtualAccount": "100290221229024",
+    "Amount": 76500,
+    "Reference": "JMB364080159",
+    "Nama": "HARDIAN ADI WIJAYA",
+    "Tanggal": "2022-12-29 09:59:28"
+}
+2022-12-29 10:00:13 {
+    "VirtualAccount": "100290221229023",
+    "Amount": 94500,
+    "Reference": "JMB364080438",
+    "Nama": "TOHIR",
+    "Tanggal": "2022-12-29 09:59:45"
+}
+2022-12-29 10:00:39 {
+    "VirtualAccount": "100290221229025",
+    "Amount": 85000,
+    "Reference": "JMB364080817",
+    "Nama": "PT JAWA BERKAT UTAMA",
+    "Tanggal": "2022-12-29 10:00:10"
+}
+2022-12-29 10:01:14 {
+    "VirtualAccount": "100290221229028",
+    "Amount": 75000,
+    "Reference": "JMB364081445",
+    "Nama": "MATADJI",
+    "Tanggal": "2022-12-29 10:00:45"
+}
+2022-12-29 10:02:10 {
+    "VirtualAccount": "100290221229027",
+    "Amount": 100500,
+    "Reference": "JMB364082358",
+    "Nama": "HERI SUROSO",
+    "Tanggal": "2022-12-29 10:01:41"
+}
+2022-12-29 10:02:46 {
+    "VirtualAccount": "100290221229026",
+    "Amount": 82500,
+    "Reference": "JMB364082940",
+    "Nama": "LIANA HENRY",
+    "Tanggal": "2022-12-29 10:02:17"
+}
+2022-12-29 10:03:21 {
+    "VirtualAccount": "100290221229030",
+    "Amount": 100000,
+    "Reference": "JMB364083499",
+    "Nama": "HUDI YUWANTORO",
+    "Tanggal": "2022-12-29 10:02:50"
+}
+2022-12-29 10:03:41 {
+    "VirtualAccount": "100290221229031",
+    "Amount": 100000,
+    "Reference": "JMB364083837",
+    "Nama": "CV DWI JAYA ABADI",
+    "Tanggal": "2022-12-29 10:03:12"
+}
+2022-12-29 10:04:17 {
+    "VirtualAccount": "100290221229029",
+    "Amount": 75000,
+    "Reference": "JMB364084447",
+    "Nama": "INDRAWATI NUGROHO",
+    "Tanggal": "2022-12-29 10:03:49"
+}
+2022-12-29 10:04:37 {
+    "VirtualAccount": "100290221229032",
+    "Amount": 78500,
+    "Reference": "JMB364084745",
+    "Nama": "ADE MUKHAMAD ANDRIANTOK",
+    "Tanggal": "2022-12-29 10:04:09"
+}
+2022-12-29 10:04:56 {
+    "VirtualAccount": "100290221229033",
+    "Amount": 100000,
+    "Reference": "JMB364085067",
+    "Nama": "DEWI ESA MAYA",
+    "Tanggal": "2022-12-29 10:04:28"
+}
+2022-12-29 10:05:14 {
+    "VirtualAccount": "100290221229034",
+    "Amount": 85000,
+    "Reference": "JMB364085358",
+    "Nama": "ERIDANI YUWANA WISATA",
+    "Tanggal": "2022-12-29 10:04:45"
+}
+2022-12-29 10:05:32 {
+    "VirtualAccount": "100290221229035",
+    "Amount": 100000,
+    "Reference": "JMB364085672",
+    "Nama": "SINGGIH SUGIHARTO",
+    "Tanggal": "2022-12-29 10:05:04"
+}
+2022-12-29 10:05:57 {
+    "VirtualAccount": "100290221229038",
+    "Amount": 100000,
+    "Reference": "JMB364086060",
+    "Nama": "ARIEF WAHYUDI",
+    "Tanggal": "2022-12-29 10:05:29"
+}
+2022-12-29 10:06:23 {
+    "VirtualAccount": "100290221229037",
+    "Amount": 135000,
+    "Reference": "JMB364086448",
+    "Nama": "H A R T O N O",
+    "Tanggal": "2022-12-29 10:05:55"
+}
+2022-12-29 10:06:59 {
+    "VirtualAccount": "100290221229036",
+    "Amount": 112000,
+    "Reference": "JMB364087033",
+    "Nama": "DANDI SULISTIYO R",
+    "Tanggal": "2022-12-29 10:06:32"
+}
+2022-12-29 10:11:13 {
+    "VirtualAccount": "100290221229039",
+    "Amount": 101500,
+    "Reference": "JMB364091200",
+    "Nama": "AGUS SUSILO",
+    "Tanggal": "2022-12-29 10:10:43"
+}
+2022-12-29 10:11:39 {
+    "VirtualAccount": "100290221229040",
+    "Amount": 101500,
+    "Reference": "JMB364091628",
+    "Nama": "AGUS ZULIANTO, SH.MM",
+    "Tanggal": "2022-12-29 10:11:08"
+}
+2022-12-29 10:11:59 {
+    "VirtualAccount": "100290221229041",
+    "Amount": 168000,
+    "Reference": "JMB364091961",
+    "Nama": "PT TMB EXPEDISI",
+    "Tanggal": "2022-12-29 10:11:29"
+}
+2022-12-29 10:12:29 {
+    "VirtualAccount": "100290221229042",
+    "Amount": 100000,
+    "Reference": "JMB364092475",
+    "Nama": "FADIL EFENDI",
+    "Tanggal": "2022-12-29 10:11:58"
+}
+2022-12-29 10:13:14 {
+    "VirtualAccount": "100290002212606",
+    "Amount": 165000,
+    "Reference": "JMB364093242",
+    "Nama": "PT. MEDALI MAS TRANSPORTATION",
+    "Tanggal": "2022-12-29 10:12:44"
+}
+2022-12-29 10:13:31 {
+    "VirtualAccount": "100290002212607",
+    "Amount": 165000,
+    "Reference": "JMB364093543",
+    "Nama": "PT. MEDALI MAS TRANSPORTATION",
+    "Tanggal": "2022-12-29 10:13:03"
+}
+2022-12-29 10:13:50 {
+    "VirtualAccount": "100290221229043",
+    "Amount": 101500,
+    "Reference": "JMB364093864",
+    "Nama": "NILAWATI",
+    "Tanggal": "2022-12-29 10:13:22"
+}
+2022-12-29 10:14:10 {
+    "VirtualAccount": "100290221229044",
+    "Amount": 100000,
+    "Reference": "JMB364094151",
+    "Nama": "SRI NURLATIFAH",
+    "Tanggal": "2022-12-29 10:13:40"
+}
+2022-12-29 10:14:32 {
+    "VirtualAccount": "100290221229045",
+    "Amount": 100000,
+    "Reference": "JMB364094551",
+    "Nama": "KWEE GOENADHI",
+    "Tanggal": "2022-12-29 10:14:03"
+}
+2022-12-29 10:14:50 {
+    "VirtualAccount": "100290002212608",
+    "Amount": 100000,
+    "Reference": "JMB364094883",
+    "Nama": "KRIS SUWITO ADI",
+    "Tanggal": "2022-12-29 10:14:21"
+}
+2022-12-29 10:15:08 {
+    "VirtualAccount": "100290002212609",
+    "Amount": 25000,
+    "Reference": "JMB364095174",
+    "Nama": "PT JAWA BERKAT LOGISTIK",
+    "Tanggal": "2022-12-29 10:14:39"
+}
+2022-12-29 10:15:30 {
+    "VirtualAccount": "100290002212610",
+    "Amount": 100000,
+    "Reference": "JMB364095548",
+    "Nama": "LANI",
+    "Tanggal": "2022-12-29 10:15:00"
+}
+2022-12-29 10:15:45 {
+    "VirtualAccount": "100290221229046",
+    "Amount": 75000,
+    "Reference": "JMB364095804",
+    "Nama": "EVELINE NOVA",
+    "Tanggal": "2022-12-29 10:15:17"
+}
+2022-12-29 10:16:16 {
+    "VirtualAccount": "100290221229047",
+    "Amount": 75000,
+    "Reference": "JMB364096278",
+    "Nama": "AHMAD IMRON",
+    "Tanggal": "2022-12-29 10:15:48"
+}
+2022-12-29 10:20:11 {
+    "VirtualAccount": "100290221229048",
+    "Amount": 101500,
+    "Reference": "JMB364099990",
+    "Nama": "AHMAD CHAIRULLAH",
+    "Tanggal": "2022-12-29 10:19:41"
+}
+2022-12-29 10:20:26 {
+    "VirtualAccount": "100290221229005",
+    "Amount": 140000,
+    "Reference": "JMB364100279",
+    "Nama": "LEO SUHENDRO",
+    "Tanggal": "2022-12-29 10:19:58"
+}
+2022-12-29 10:20:46 {
+    "VirtualAccount": "100290221229015",
+    "Amount": 100000,
+    "Reference": "JMB364100579",
+    "Nama": "ABDUL GOFUR",
+    "Tanggal": "2022-12-29 10:20:17"
+}
+2022-12-29 10:21:06 {
+    "VirtualAccount": "100290221229016",
+    "Amount": 100000,
+    "Reference": "JMB364100922",
+    "Nama": "PT. SERASI AUTORAYA",
+    "Tanggal": "2022-12-29 10:20:37"
+}
+2022-12-29 10:21:27 {
+    "VirtualAccount": "100290221229055",
+    "Amount": 101500,
+    "Reference": "JMB364101307",
+    "Nama": "RIYAN SETIAWAN",
+    "Tanggal": "2022-12-29 10:20:59"
+}
+2022-12-29 10:21:53 {
+    "VirtualAccount": "100290002212599",
+    "Amount": 100000,
+    "Reference": "JMB364101710",
+    "Nama": "MUBIARTO",
+    "Tanggal": "2022-12-29 10:21:24"
+}
+2022-12-29 10:22:16 {
+    "VirtualAccount": "100290002212596",
+    "Amount": 165000,
+    "Reference": "JMB364102143",
+    "Nama": "PT MARBELA BUANA ABADI",
+    "Tanggal": "2022-12-29 10:21:47"
+}
+2022-12-29 10:22:50 {
+    "VirtualAccount": "100290002212597",
+    "Amount": 165000,
+    "Reference": "JMB364102651",
+    "Nama": "PT MARBELA BUANA ABADI",
+    "Tanggal": "2022-12-29 10:22:21"
+}
+2022-12-29 10:23:19 {
+    "VirtualAccount": "100290002212605",
+    "Amount": 100000,
+    "Reference": "JMB364103162",
+    "Nama": "PT. ADI SARANA ARMADA",
+    "Tanggal": "2022-12-29 10:22:51"
+}
+2022-12-29 10:34:12 {
+    "VirtualAccount": "100290002212615",
+    "Amount": 100000,
+    "Reference": "JMB364113636",
+    "Nama": "SUGATOT IRVAN",
+    "Tanggal": "2022-12-29 10:33:28"
+}
+2022-12-29 10:34:15 {
+    "VirtualAccount": "100290221229054",
+    "Amount": 101500,
+    "Reference": "JMB364113964",
+    "Nama": "NURHIDAYAH",
+    "Tanggal": "2022-12-29 10:33:47"
+}
+2022-12-29 10:34:35 {
+    "VirtualAccount": "100290002212614",
+    "Amount": 100000,
+    "Reference": "JMB364114324",
+    "Nama": "PT CIPTA PERKASA OLEINDO",
+    "Tanggal": "2022-12-29 10:34:06"
+}
+2022-12-29 10:34:52 {
+    "VirtualAccount": "100290221229052",
+    "Amount": 87000,
+    "Reference": "JMB364114607",
+    "Nama": "LISA WIDJAJA",
+    "Tanggal": "2022-12-29 10:34:23"
+}
+2022-12-29 10:35:10 {
+    "VirtualAccount": "100290221229051",
+    "Amount": 100000,
+    "Reference": "JMB364114917",
+    "Nama": "TITIK ISNAWATI",
+    "Tanggal": "2022-12-29 10:34:41"
+}
+2022-12-29 10:35:28 {
+    "VirtualAccount": "100290002212611",
+    "Amount": 325000,
+    "Reference": "JMB364115245",
+    "Nama": "HARRY CHANDRA",
+    "Tanggal": "2022-12-29 10:35:00"
+}
+2022-12-29 10:35:48 {
+    "VirtualAccount": "100290002212612",
+    "Amount": 100000,
+    "Reference": "JMB364115585",
+    "Nama": "YOYOK TRI WAHYUDI",
+    "Tanggal": "2022-12-29 10:35:20"
+}
+2022-12-29 10:36:06 {
+    "VirtualAccount": "100290221229050",
+    "Amount": 112000,
+    "Reference": "JMB364115848",
+    "Nama": "SUGENG",
+    "Tanggal": "2022-12-29 10:35:37"
+}
+2022-12-29 10:36:21 {
+    "VirtualAccount": "100290221229049",
+    "Amount": 85000,
+    "Reference": "JMB364116147",
+    "Nama": "BUDIANTO W",
+    "Tanggal": "2022-12-29 10:35:53"
+}
+2022-12-29 10:36:43 {
+    "VirtualAccount": "100290221229056",
+    "Amount": 76500,
+    "Reference": "JMB364116549",
+    "Nama": "PT.ANUGRAH CITRA ABADI",
+    "Tanggal": "2022-12-29 10:36:15"
+}
+2022-12-29 10:37:03 {
+    "VirtualAccount": "100290221229057",
+    "Amount": 87000,
+    "Reference": "JMB364116923",
+    "Nama": "ALFIN AULIA RACHMAN",
+    "Tanggal": "2022-12-29 10:36:35"
+}

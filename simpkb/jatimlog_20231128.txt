@@ -1,0 +1,343 @@
+2023-11-28 11:23:10 {
+    "VirtualAccount": "100290002311277",
+    "Amount": 25000,
+    "Reference": "JMB599031818",
+    "Nama": "EDY SUNARKO",
+    "Tanggal": "2023-11-28 11:23:08"
+}
+2023-11-28 11:24:25 {
+    "VirtualAccount": "100290231128042",
+    "Amount": 76500,
+    "Reference": "JMB599032956",
+    "Nama": "HARSONO BADAI SAMODRA",
+    "Tanggal": "2023-11-28 11:24:24"
+}
+2023-11-28 11:25:35 {
+    "VirtualAccount": "100290231128041",
+    "Amount": 75000,
+    "Reference": "JMB599034016",
+    "Nama": "M.DWI ANGGORO",
+    "Tanggal": "2023-11-28 11:25:34"
+}
+2023-11-28 11:26:51 {
+    "VirtualAccount": "100290231128040",
+    "Amount": 75000,
+    "Reference": "JMB599035128",
+    "Nama": "PT YAKULT IND PERSADA",
+    "Tanggal": "2023-11-28 11:26:51"
+}
+2023-11-28 11:27:10 {
+    "VirtualAccount": "100290002311272",
+    "Amount": 377500,
+    "Reference": "JMB599035382",
+    "Nama": "R I F A ` I",
+    "Tanggal": "2023-11-28 11:27:08"
+}
+2023-11-28 11:28:20 {
+    "VirtualAccount": "100290231128038",
+    "Amount": 75000,
+    "Reference": "JMB599036507",
+    "Nama": "LIANAWATI",
+    "Tanggal": "2023-11-28 11:28:20"
+}
+2023-11-28 11:28:45 {
+    "VirtualAccount": "100290231128037",
+    "Amount": 75000,
+    "Reference": "JMB599036887",
+    "Nama": "LUSI INDAHWATI",
+    "Tanggal": "2023-11-28 11:28:43"
+}
+2023-11-28 11:29:16 {
+    "VirtualAccount": "100290231128039",
+    "Amount": 370500,
+    "Reference": "JMB599037332",
+    "Nama": "KADAFI",
+    "Tanggal": "2023-11-28 11:29:12"
+}
+2023-11-28 11:31:05 {
+    "VirtualAccount": "100290002311274",
+    "Amount": 110000,
+    "Reference": "JMB599039085",
+    "Nama": "CV ANUGERAH MAKMUR",
+    "Tanggal": "2023-11-28 11:31:03"
+}
+2023-11-28 11:31:31 {
+    "VirtualAccount": "100290231128017",
+    "Amount": 87000,
+    "Reference": "JMB599039499",
+    "Nama": "EDY SUNARKO",
+    "Tanggal": "2023-11-28 11:31:28"
+}
+2023-11-28 11:32:11 {
+    "VirtualAccount": "100290231128019",
+    "Amount": 93500,
+    "Reference": "JMB599040124",
+    "Nama": "HARLEY SANTOSO",
+    "Tanggal": "2023-11-28 11:32:08"
+}
+2023-11-28 11:32:41 {
+    "VirtualAccount": "100290231128036",
+    "Amount": 76500,
+    "Reference": "JMB599040596",
+    "Nama": "PT ADI SARANA ARMADA TBK",
+    "Tanggal": "2023-11-28 11:32:39"
+}
+2023-11-28 11:33:48 {
+    "VirtualAccount": "100290231128035",
+    "Amount": 75000,
+    "Reference": "JMB599041658",
+    "Nama": "HERRY SUSANTO",
+    "Tanggal": "2023-11-28 11:33:48"
+}
+2023-11-28 11:35:01 {
+    "VirtualAccount": "100290231128034",
+    "Amount": 160000,
+    "Reference": "JMB599042779",
+    "Nama": "PT KWANSAN ORANGE TRANSPORTATION",
+    "Tanggal": "2023-11-28 11:35:01"
+}
+2023-11-28 11:35:32 {
+    "VirtualAccount": "100290231128028",
+    "Amount": 154500,
+    "Reference": "JMB599043211",
+    "Nama": "PT.JANTI SARANA MATERIAL BETON",
+    "Tanggal": "2023-11-28 11:35:30"
+}
+2023-11-28 11:37:21 {
+    "VirtualAccount": "100290231128027",
+    "Amount": 143000,
+    "Reference": "JMB599044840",
+    "Nama": "PT.JANTI SARANA MATERIAL BETON",
+    "Tanggal": "2023-11-28 11:37:19"
+}
+2023-11-28 11:37:47 {
+    "VirtualAccount": "100290231128032",
+    "Amount": 75000,
+    "Reference": "JMB599045184",
+    "Nama": "DIAN INDRA C",
+    "Tanggal": "2023-11-28 11:37:47"
+}
+2023-11-28 11:43:33 {
+    "VirtualAccount": "100290231128033",
+    "Amount": 85000,
+    "Reference": "JMB599050206",
+    "Nama": "LAURENSIUS CHRISTOPHER ONGKOWIJOYO",
+    "Tanggal": "2023-11-28 11:43:32"
+}
+2023-11-28 11:44:43 {
+    "VirtualAccount": "100290231128030",
+    "Amount": 75000,
+    "Reference": "JMB599051251",
+    "Nama": "PT SURYA MADISTRINDO",
+    "Tanggal": "2023-11-28 11:44:42"
+}
+2023-11-28 11:45:17 {
+    "VirtualAccount": "100290231128031",
+    "Amount": 75000,
+    "Reference": "JMB599051751",
+    "Nama": "DIAN INDRA CAHYONO",
+    "Tanggal": "2023-11-28 11:45:14"
+}
+2023-11-28 11:45:59 {
+    "VirtualAccount": "100290231128029",
+    "Amount": 140000,
+    "Reference": "JMB599052417",
+    "Nama": "RUSI WIDJAJA",
+    "Tanggal": "2023-11-28 11:45:59"
+}
+2023-11-28 11:46:21 {
+    "VirtualAccount": "100290231128026",
+    "Amount": 85000,
+    "Reference": "JMB599052712",
+    "Nama": "WIDJOJO SUNJOTO",
+    "Tanggal": "2023-11-28 11:46:19"
+}
+2023-11-28 11:47:37 {
+    "VirtualAccount": "100290231128025",
+    "Amount": 75000,
+    "Reference": "JMB599053957",
+    "Nama": "CHOIRUL USMAN",
+    "Tanggal": "2023-11-28 11:47:37"
+}
+2023-11-28 11:48:03 {
+    "VirtualAccount": "100290231128024",
+    "Amount": 146000,
+    "Reference": "JMB599054303",
+    "Nama": "PT PELITA AMAN ABADI",
+    "Tanggal": "2023-11-28 11:48:01"
+}
+2023-11-28 11:50:19 {
+    "VirtualAccount": "100290231128023",
+    "Amount": 143000,
+    "Reference": "JMB599056404",
+    "Nama": "PT JANTI SARANA MATERIAL B",
+    "Tanggal": "2023-11-28 11:50:18"
+}
+2023-11-28 11:51:39 {
+    "VirtualAccount": "100290231128021",
+    "Amount": 75000,
+    "Reference": "JMB599057635",
+    "Nama": "ISA FEBRIATI N",
+    "Tanggal": "2023-11-28 11:51:36"
+}
+2023-11-28 11:52:04 {
+    "VirtualAccount": "100290231128022",
+    "Amount": 76500,
+    "Reference": "JMB599058020",
+    "Nama": "ANGGRAINI",
+    "Tanggal": "2023-11-28 11:52:03"
+}
+2023-11-28 11:53:34 {
+    "VirtualAccount": "100290231128020",
+    "Amount": 75000,
+    "Reference": "JMB599059303",
+    "Nama": "TJAHYONO",
+    "Tanggal": "2023-11-28 11:53:33"
+}
+2023-11-28 11:53:56 {
+    "VirtualAccount": "100290231128018",
+    "Amount": 75000,
+    "Reference": "JMB599059648",
+    "Nama": "SYAIFUL BACHRI",
+    "Tanggal": "2023-11-28 11:53:55"
+}
+2023-11-28 11:55:26 {
+    "VirtualAccount": "100290002311271",
+    "Amount": 100000,
+    "Reference": "JMB599061068",
+    "Nama": "ABDUL MALIK",
+    "Tanggal": "2023-11-28 11:55:26"
+}
+2023-11-28 11:57:46 {
+    "VirtualAccount": "100290231128002",
+    "Amount": 76500,
+    "Reference": "JMB599063238",
+    "Nama": "TUGIMAN SARWANTO",
+    "Tanggal": "2023-11-28 11:57:45"
+}
+2023-11-28 11:58:27 {
+    "VirtualAccount": "100290231128001",
+    "Amount": 75000,
+    "Reference": "JMB599063876",
+    "Nama": "ACHMAD ZAINUDIN",
+    "Tanggal": "2023-11-28 11:58:26"
+}
+2023-11-28 11:59:27 {
+    "VirtualAccount": "100290231128003",
+    "Amount": 75000,
+    "Reference": "JMB599064898",
+    "Nama": "MIA DEWI KURNIAWATI",
+    "Tanggal": "2023-11-28 11:59:27"
+}
+2023-11-28 12:01:48 {
+    "VirtualAccount": "100290231128004",
+    "Amount": 76500,
+    "Reference": "JMB599067180",
+    "Nama": "KUSWANDI",
+    "Tanggal": "2023-11-28 12:01:47"
+}
+2023-11-28 12:02:13 {
+    "VirtualAccount": "100290231128005",
+    "Amount": 75000,
+    "Reference": "JMB599067497",
+    "Nama": "METTA DEWI",
+    "Tanggal": "2023-11-28 12:02:09"
+}
+2023-11-28 12:02:43 {
+    "VirtualAccount": "100290231128016",
+    "Amount": 85000,
+    "Reference": "JMB599067914",
+    "Nama": "VINCENTIUS ANDRE",
+    "Tanggal": "2023-11-28 12:02:40"
+}
+2023-11-28 12:03:03 {
+    "VirtualAccount": "100290231128007",
+    "Amount": 75000,
+    "Reference": "JMB599068196",
+    "Nama": "DEDY YANUAR",
+    "Tanggal": "2023-11-28 12:03:01"
+}
+2023-11-28 12:03:23 {
+    "VirtualAccount": "100290231128008",
+    "Amount": 76500,
+    "Reference": "JMB599068519",
+    "Nama": "FIRMAN MOCHAMAT MUNIF",
+    "Tanggal": "2023-11-28 12:03:23"
+}
+2023-11-28 12:03:43 {
+    "VirtualAccount": "100290002311270",
+    "Amount": 100000,
+    "Reference": "JMB599068780",
+    "Nama": "SETIYO WIBOWO",
+    "Tanggal": "2023-11-28 12:03:41"
+}
+2023-11-28 12:04:04 {
+    "VirtualAccount": "100290231128006",
+    "Amount": 84500,
+    "Reference": "JMB599069177",
+    "Nama": "TANTRI SUKMA WIJAYA",
+    "Tanggal": "2023-11-28 12:04:03"
+}
+2023-11-28 12:05:40 {
+    "VirtualAccount": "100290231128009",
+    "Amount": 75000,
+    "Reference": "JMB599070554",
+    "Nama": "INDAH BUDI MARIANA",
+    "Tanggal": "2023-11-28 12:05:37"
+}
+2023-11-28 12:06:12 {
+    "VirtualAccount": "100290231128010",
+    "Amount": 75000,
+    "Reference": "JMB599071040",
+    "Nama": "S DANUREDJO",
+    "Tanggal": "2023-11-28 12:06:11"
+}
+2023-11-28 12:06:39 {
+    "VirtualAccount": "100290231128011",
+    "Amount": 76500,
+    "Reference": "JMB599071414",
+    "Nama": "RACHMAD YUDA TIMOR",
+    "Tanggal": "2023-11-28 12:06:37"
+}
+2023-11-28 12:07:00 {
+    "VirtualAccount": "100290231128012",
+    "Amount": 75000,
+    "Reference": "JMB599071730",
+    "Nama": "BAMBANG JUNARTO D",
+    "Tanggal": "2023-11-28 12:06:58"
+}
+2023-11-28 12:07:25 {
+    "VirtualAccount": "100290231128013",
+    "Amount": 87000,
+    "Reference": "JMB599072099",
+    "Nama": "PT AMAN DAMAI SEJAHTERA",
+    "Tanggal": "2023-11-28 12:07:25"
+}
+2023-11-28 12:07:51 {
+    "VirtualAccount": "100290231128014",
+    "Amount": 75000,
+    "Reference": "JMB599072429",
+    "Nama": "DIAN AYU DAMAYANTI. SE",
+    "Tanggal": "2023-11-28 12:07:48"
+}
+2023-11-28 12:08:17 {
+    "VirtualAccount": "100290231128015",
+    "Amount": 75000,
+    "Reference": "JMB599072860",
+    "Nama": "UNIVERSITAS BRAWIJAYA",
+    "Tanggal": "2023-11-28 12:08:16"
+}
+2023-11-28 12:08:52 {
+    "VirtualAccount": "100290002311278",
+    "Amount": 92000,
+    "Reference": "JMB599073225",
+    "Nama": "SUDARMINTO",
+    "Tanggal": "2023-11-28 12:08:42"
+}
+2023-11-28 12:09:18 {
+    "VirtualAccount": "100290231128043",
+    "Amount": 75000,
+    "Reference": "JMB599073791",
+    "Nama": "DJUMILA",
+    "Tanggal": "2023-11-28 12:09:18"
+}

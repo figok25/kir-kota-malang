@@ -1,0 +1,530 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#000000">
+    <title>ujikir.malangkota.go.id</title>
+    <meta name="description" content="Mobilekit HTML Mobile UI Kit">
+    <meta name="keywords" content="bootstrap 5, mobile template, cordova, phonegap, mobile, html" />
+    <link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icon/192x192.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="manifest" href="__manifest.json">
+     <!-- Ion Icons (Opsional, jika Anda menggunakan ikon) -->
+     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+     <!-- CSS -->
+     <style>
+        /* Gaya dasar untuk header */
+        .appHeader {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+            background-color: #007bff; /* Warna latar belakang header */
+            color: white; /* Warna teks */
+            box-sizing: border-box; /* Memastikan padding tidak mempengaruhi lebar total */
+        }
+
+        .left, .right {
+            display: flex;
+            align-items: center;
+            flex: 0 0 auto; /* Tidak boleh tumbuh atau menyusut */
+        }
+
+        .pageTitle {
+            font-size: 18px;
+            font-weight: bold;
+            flex-grow: 1; /* Membuat judul mengambil ruang yang tersedia */
+            text-align: center; /* Memastikan teks berada di tengah */
+            padding: 0 10px; /* Memberikan jarak antara tulisan dan logo */
+            white-space: nowrap; /* Mencegah tulisan terpotong */
+        }
+
+        .headerButton {
+            color: white;
+            text-decoration: none;
+            font-size: 24px;
+        }
+
+        /* Gaya untuk logo */
+        .header-logo {
+            max-height: 40px; /* Ukuran maksimum logo */
+            width: auto; /* Biarkan lebar menyesuaikan proporsi */
+            max-width: 100%; /* Pastikan logo tidak melebihi lebar container */
+        }
+
+        /* Responsif untuk layar kecil */
+        @media (max-width: 768px) {
+            .header-logo {
+                max-height: 30px; /* Ukuran lebih kecil untuk layar kecil */
+            }
+
+            .pageTitle {
+                font-size: 16px; /* Ukuran font lebih kecil untuk layar kecil */
+                padding: 0 5px; /* Jarak yang lebih kecil antara tulisan dan logo */
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header-logo {
+                max-height: 20px; /* Ukuran lebih kecil untuk layar sangat kecil */
+            }
+
+            .pageTitle {
+                font-size: 14px; /* Ukuran font lebih kecil untuk layar sangat kecil */
+                padding: 0 5px; /* Jarak yang lebih kecil antara tulisan dan logo */
+            }
+
+            .appHeader {
+                padding: 5px; /* Padding yang lebih kecil untuk header */
+            }
+        }
+     </style>
+</head>
+
+<body>
+
+    <!-- loader -->
+    <div id="loader">
+        <div class="spinner-border text-primary" role="status"></div>
+    </div>
+    <!-- * loader -->
+
+    <!-- App Header -->
+    <div class="appHeader bg-primary scrolled">
+        <div class="left">
+            <a href="#" class="headerButton" data-bs-toggle="offcanvas" data-bs-target="#sidebarPanel">
+                <ion-icon name="reorder-four-outline"></ion-icon>
+            </a>
+        </div>
+        <div class="pageTitle">
+            DINAS PERHUBUNGAN KOTA MALANG
+        </div>
+        <div class="right">
+            <img type="image/png" src="assets/img/favicon.png" alt="Logo" class="header-logo">
+        </div>
+        </div>
+    </div>
+    <!-- * App Header -->
+
+
+    <!-- App Capsule -->
+    <div id="appCapsule">
+
+        <div class="header-large-title">
+            <h3 class="title fs-4">UPT PENGUJIAN KENDARAAN BERMOTOR DINAS PERHUBUNGAN KOTA MALANG</h3>
+           <!-- <h4 class="subtitle">Kota Malang</h4> -->
+        </div>
+
+        <div class="section full mt-3 mb-3">
+
+            <!-- carousel multiple -->
+            <div class="carousel-multiple splide">
+                <div class="splide__track">
+                    <ul class="splide__list">
+                       <!-- <li class="splide__slide">
+                            <div class="card">
+                                <a  href="https://ujikirkotamalang.com/" >
+                                <img src="assets/img/online.jpg" class="card-img-top" alt="image">
+                                <div class="card-body pt-2">
+                                    <h4 class="mb-0">Pendaftaran Online Uji Kendaraan</h4>
+                                </div>
+                            </div></a>
+                        </li>
+                    -->
+                        <li class="splide__slide">
+                            <div class="card">
+                                <a  href="http://ujikir.malangkota.go.id/syarat.html" >                              
+                                <img src="assets/img/truk.jpg" class="card-img-top" alt="image">
+                                <div class="card-body pt-2">
+                                    <h4 class="mb-0">Pendaftaran Berkala</h4>
+                                </div>
+                            </div></a>
+                        </li>
+                        <li class="splide__slide">
+                            <div class="card">
+                                <a  href="https://link-pendaftaran-online.com" >
+                                <img src="assets/img/rekom.jpg" class="card-img-top" alt="image">
+                                <div class="card-body pt-2">
+                                    <h4 class="mb-0">Rekomendasi Numpang Uji</h4>
+                                </div>
+                            </div></a>
+                        </li>
+                        <li class="splide__slide">
+                            <div class="card">
+                                <a  href="http://36.94.180.43:8299/" >
+                                <img src="assets/img/cloud.jpg" class="card-img-top" alt="image">
+                                <div class="card-body pt-2">
+                                    <h4 class="mb-0">Cloud Server</h4>
+                                </div>
+                            </div></a>
+                        </li>
+                        <!--
+                        <li class="splide__slide">
+                            <div class="card">
+                                <a  href="https://link-pendaftaran-online.com" >
+                                <img src="assets/img/sample/photo/d6.jpg" class="card-img-top" alt="image">
+                                <div class="card-body pt-2">
+                                    <h4 class="mb-0">Kendaraan Lulus</h4>
+                                </div>
+                            </div></a>
+                        </li>
+                        <li class="splide__slide">
+                            <div class="card">
+                                <a  href="https://link-pendaftaran-online.com" >
+                                <img src="assets/img/sample/photo/d7.jpg" class="card-img-top" alt="image">
+                                <div class="card-body pt-2">
+                                    <h4 class="mb-0">RTL (Right to Left) Support</h4>
+                                </div>
+                            </div></a>
+                        </li>
+                        <li class="splide__slide">
+                            <div class="card">
+                                <a  href="https://link-pendaftaran-online.com" >
+                                <img src="assets/img/sample/photo/d5.jpg" class="card-img-top" alt="image">
+                                <div class="card-body pt-2">
+                                    <h4 class="mb-0">Written with a code structure</h4>
+                                </div>
+                            </div></a>
+                        </li>
+                    -->
+                    </ul>
+                </div>
+            </div>
+            <!-- * carousel multiple -->
+
+        </div>
+
+
+        <div class="section mt-3 mb-3">
+            <div class="card">
+                <div class="card-body d-flex justify-content-between align-items-end">
+                    <div>
+                        <h6 class="card-subtitle">Pilih Mode:</h6>
+                        <h5 class="card-title mb-0 d-flex align-items-center justify-content-between">
+                            Dark Mode
+                        </h5>
+                    </div>
+                    <div class="form-check form-switch">
+                        <input class="form-check-input dark-mode-switch" type="checkbox" id="darkmodecontent">
+                        <label class="form-check-label" for="darkmodecontent"></label>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="section mt-3 mb-3">
+            <div class="card">
+                <img src="assets/img/visi.jpg" class="card-img-top" alt="image">
+                <div class="card-body">
+                    <h6 class="card-subtitle">14 Februari 2025</h6>
+                    <h5 class="card-title">Visi dan Misi</h5>
+                    <h3>Visi</h3>
+                    <p class="card-text">
+                    <h5>  Terwujudnya sistem transportasi kota yang lebih baik untuk mendukung Kota Malang sebagai kota yang unggul nyaman dan sejahtera.</h5>
+                    <h3>Misi</h3>
+                    <h5>> Menciptakan kondisi lalulintas yang aman nyaman tertib dan terkendali.</h5>
+                    <h5>> Menyediakan sarana angkutan umum yang aman dan nyaman.</h5>
+                    <h5>> Menyediakan prasarana dan fasilitas perhubungan yang memadai.</h5>
+                    <h5>> Meningkatkan profesionalisme aparat Dinas Perhubungan Kota Malang.</h5>
+                    </p>
+                    <!--
+                    <a href="app-components.html" class="btn btn-primary">
+                        <ion-icon name="cube-outline"></ion-icon>
+                        Preview
+                    </a>
+                -->
+                </div>
+            </div>
+        </div>
+
+        <div class="section mt-3 mb-3">
+            <div class="card">
+                <img src="assets/img/inspeksi.jpg" class="card-img-top" alt="image">
+                <div class="card-body">
+                    <h6 class="card-subtitle">14 Februari 2025</h6>
+                    <h5 class="card-title">Pentingnya Uji KIR Secara Berkala</h5>
+                    <p class="card-text">
+                        UPT Pengujian Kendaraan Bermotor .
+                    </p>
+                    <a href="app-components.html" class="btn btn-primary">
+                        <ion-icon name="cube-outline"></ion-icon>
+                        Preview
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- app footer -->
+        <div class="appFooter">
+            <img src="assets/img/dishub.png" alt="icon" class="footer-logo mb-2">
+            <div class="footer-title">
+                Copyright © UPT Pengujian Kendaraan Bermotor <span class="yearNow"></span>
+            </div>
+            <div>Dinas Perhubungan Kota Malang</div>
+            
+
+            <div class="mt-2">
+                <a href="#" class="btn btn-icon btn-sm btn-facebook">
+                    <ion-icon name="logo-facebook"></ion-icon>
+                </a>
+                <a href="#" class="btn btn-icon btn-sm btn-twitter">
+                    <ion-icon name="logo-twitter"></ion-icon>
+                </a>
+                <a href="#" class="btn btn-icon btn-sm btn-linkedin">
+                    <ion-icon name="logo-linkedin"></ion-icon>
+                </a>
+                <a href="#" class="btn btn-icon btn-sm btn-instagram">
+                    <ion-icon name="logo-instagram"></ion-icon>
+                </a>
+                <a href="#" class="btn btn-icon btn-sm btn-whatsapp">
+                    <ion-icon name="logo-whatsapp"></ion-icon>
+                </a>
+                <a href="#" class="btn btn-icon btn-sm btn-secondary goTop">
+                    <ion-icon name="arrow-up-outline"></ion-icon>
+                </a>
+            </div>
+
+        </div>
+        <!-- * app footer -->
+
+    </div>
+    <!-- * App Capsule -->
+
+
+    <!-- App Bottom Menu -->
+    <div class="appBottomMenu">
+        <a href="index.html" class="item active">
+            <div class="col">
+                <ion-icon name="home-outline"></ion-icon>
+            </div>
+        </a>
+        <a href="app-components.html" class="item">
+            <div class="col">
+                <ion-icon name="cube-outline"></ion-icon>
+            </div>
+        </a>
+        <a href="page-chat.html" class="item">
+            <div class="col">
+                <ion-icon name="chatbubble-ellipses-outline"></ion-icon>
+                <span class="badge badge-danger">5</span>
+            </div>
+        </a>
+        <a href="app-pages.html" class="item">
+            <div class="col">
+                <ion-icon name="layers-outline"></ion-icon>
+            </div>
+        </a>
+        <a href="#sidebarPanel" class="item" data-bs-toggle="offcanvas">
+            <div class="col">
+                <ion-icon name="menu-outline"></ion-icon>
+            </div>
+        </a>
+    </div>
+    <!-- * App Bottom Menu -->
+
+    <!-- App Sidebar -->
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="sidebarPanel">
+        <div class="offcanvas-body">
+            <!-- profile box -->
+            <div class="profileBox">
+                <div class="image-wrapper">
+                    <img src="assets/img/kotamalang.png" alt="image" class="imaged rounded">
+                </div>
+                <div class="in">
+                    <strong>Pengujian Kendaraan</strong>
+                    <div class="text-muted">
+                        <ion-icon name="location"></ion-icon>
+                        Kota Malang
+                    </div>
+                </div>
+                <a href="#" class="close-sidebar-button" data-bs-dismiss="offcanvas">
+                    <ion-icon name="close"></ion-icon>
+                </a>
+            </div>
+            <!-- * profile box -->
+
+            <ul class="listview flush transparent no-line image-listview mt-2">
+                <li>
+                    <a href="index.html" class="item">
+                        <div class="icon-box bg-primary">
+                            <ion-icon name="home-outline"></ion-icon>
+                        </div>
+                        <div class="in">
+                            Home
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="datakendaraan.php" class="item">
+                        <div class="icon-box bg-primary">
+                            <ion-icon name="cube-outline"></ion-icon>
+                        </div>
+                        <div class="in">
+                            Data Uji Kendaraan
+                        </div>
+                    </a>
+                </li>
+                <!--
+                <li>
+                    <a href="app-pages.html" class="item">
+                        <div class="icon-box bg-primary">
+                            <ion-icon name="layers-outline"></ion-icon>
+                        </div>
+                        <div class="in">
+                            <div>Pages</div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="page-chat.html" class="item">
+                        <div class="icon-box bg-primary">
+                            <ion-icon name="chatbubble-ellipses-outline"></ion-icon>
+                        </div>
+                        <div class="in">
+                            <div>Chat</div>
+                            <span class="badge badge-danger">5</span>
+                        </div>
+                    </a>
+                </li>
+            -->
+                <li>
+                    <div class="item">
+                        <div class="icon-box bg-primary">
+                            <ion-icon name="moon-outline"></ion-icon>
+                        </div>
+                        <div class="in">
+                            <div>Dark Mode</div>
+                            <div class="form-check form-switch">
+                                <input class="form-check-input dark-mode-switch" type="checkbox" id="darkmodesidebar">
+                                <label class="form-check-label" for="darkmodesidebar"></label>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="listview-title mt-2 mb-1">
+                <span>Narahubung</span>
+            </div>
+            <ul class="listview image-listview flush transparent no-line">
+                <li>
+                    <a href="https://www.instagram.com/ujikir.malangkota" class="item">
+                        <ion-icon name="logo-instagram"></ion-icon>
+                        <div class="in">
+                            <div>Instagram</div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://wa.me/+6282229828232" class="item">
+                        <ion-icon name="logo-whatsapp"></ion-icon>
+                        <div class="in">
+                            <div>Whatsapp</div>
+                            <span class="badge badge-danger">6</span>
+                        </div>
+                    </a>
+                </li>
+                <!--
+                <li>
+                    <a href="page-chat.html" class="item">
+                        <img src="assets/img/sample/avatar/avatar10.jpg" alt="image" class="image">
+                        <div class="in">
+                            <div>Survei Kepuasan Masyarakat</div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="page-chat.html" class="item">
+                        <img src="assets/img/sample/avatar/avatar2.jpg" alt="image" class="image">
+                        <div class="in">
+                            <div>Dinas Perhubungan Kota Malang</div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="page-chat.html" class="item">
+                        <img src="assets/img/sample/avatar/avatar5.jpg" alt="image" class="image">
+                        <div class="in">
+                            <div>Henry Doe</div>
+                        </div>
+                    </a>
+                </li>
+            -->
+            </ul>
+        </div>
+        <!-- sidebar buttons -->
+        <div class="sidebar-buttons">
+            <a href="#" class="button">
+                <ion-icon name="person-outline"></ion-icon>
+            </a>
+            <a href="#" class="button">
+                <ion-icon name="archive-outline"></ion-icon>
+            </a>
+            <a href="#" class="button">
+                <ion-icon name="settings-outline"></ion-icon>
+            </a>
+            <a href="#" class="button">
+                <ion-icon name="log-out-outline"></ion-icon>
+            </a>
+        </div>
+        <!-- * sidebar buttons -->
+    </div>
+    <!-- * App Sidebar -->
+
+    <!-- welcome notification 
+    <div id="notification-welcome" class="notification-box">
+        <div class="notification-dialog android-style">
+            <div class="notification-header">
+                <div class="in">
+                    <img src="assets/img/icon/72x72.png" alt="image" class="imaged w24">
+                    <strong>Selamat Datang</strong>
+                    <span>just now</span>
+                </div>
+                <a href="https://play.google.com/store/apps/details?id=com.kotamalang.sjm&pli=1" class="close-button">
+                    <ion-icon name="close"></ion-icon>
+                </a>
+            </div>
+            <div class="notification-content">
+                <div class="in">
+                    <h3 class="subtitle">Pengujian Kendaraan Bermotor</h3>
+                    <div href="https://play.google.com/store/apps/details?id=com.kotamalang.sjm&pli=1" class="text">
+                        Kota Malang.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    * welcome notification -->
+
+    <!-- ============== Js Files ==============  -->
+    <!-- Bootstrap -->
+    <script src="assets/js/lib/bootstrap.min.js"></script>
+    <!-- Ionicons -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- Splide -->
+    <script src="assets/js/plugins/splide/splide.min.js"></script>
+    <!-- ProgressBar js -->
+    <script src="assets/js/plugins/progressbar-js/progressbar.min.js"></script>
+    <!-- Base Js File -->
+    <script src="assets/js/base.js"></script>
+
+    <script>
+        // Trigger welcome notification after 5 seconds
+        setTimeout(() => {
+            notification('notification-welcome', 5000);
+        }, 2000);
+    </script>
+
+</body>
+
+</html>

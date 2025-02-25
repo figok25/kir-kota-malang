@@ -1,0 +1,520 @@
+2023-05-04 09:26:38 {
+    "VirtualAccount": "100290230504001",
+    "Amount": 85000,
+    "Reference": "JMB446711020",
+    "Nama": "PT INDOMARCO PRISMATAMA",
+    "Tanggal": "2023-05-04 09:26:35"
+}
+2023-05-04 09:29:35 {
+    "VirtualAccount": "100290230504002",
+    "Amount": 75000,
+    "Reference": "JMB446713785",
+    "Nama": "FENNY AGUSTINA GUNAWAN",
+    "Tanggal": "2023-05-04 09:29:31"
+}
+2023-05-04 09:30:17 {
+    "VirtualAccount": "100290230504003",
+    "Amount": 76500,
+    "Reference": "JMB446714505",
+    "Nama": "SETIAWAN HERI CAHYONO",
+    "Tanggal": "2023-05-04 09:30:15"
+}
+2023-05-04 09:30:35 {
+    "VirtualAccount": "100290002305050",
+    "Amount": 100000,
+    "Reference": "JMB446714787",
+    "Nama": "EKO SUSANTO",
+    "Tanggal": "2023-05-04 09:30:33"
+}
+2023-05-04 09:30:51 {
+    "VirtualAccount": "100290002305051",
+    "Amount": 110000,
+    "Reference": "JMB446715072",
+    "Nama": "SONY HARSONO",
+    "Tanggal": "2023-05-04 09:30:50"
+}
+2023-05-04 09:31:11 {
+    "VirtualAccount": "100290230504005",
+    "Amount": 76500,
+    "Reference": "JMB446715357",
+    "Nama": "KENDRO PUTRO TANUWIDJAJA",
+    "Tanggal": "2023-05-04 09:31:07"
+}
+2023-05-04 09:31:26 {
+    "VirtualAccount": "100290230504007",
+    "Amount": 122000,
+    "Reference": "JMB446715596",
+    "Nama": "TEGUH SUSANTO",
+    "Tanggal": "2023-05-04 09:31:23"
+}
+2023-05-04 09:33:42 {
+    "VirtualAccount": "100290230504006",
+    "Amount": 76500,
+    "Reference": "JMB446717740",
+    "Nama": "RUDY SANTOSO",
+    "Tanggal": "2023-05-04 09:33:40"
+}
+2023-05-04 09:34:02 {
+    "VirtualAccount": "100290002305052",
+    "Amount": 100000,
+    "Reference": "JMB446718102",
+    "Nama": "VERI ADRIANTO",
+    "Tanggal": "2023-05-04 09:33:59"
+}
+2023-05-04 09:34:37 {
+    "VirtualAccount": "100290230504008",
+    "Amount": 75000,
+    "Reference": "JMB446718678",
+    "Nama": "GEREJA YESUS HIDUP SEJATI",
+    "Tanggal": "2023-05-04 09:34:36"
+}
+2023-05-04 09:35:48 {
+    "VirtualAccount": "100290002305053",
+    "Amount": 110000,
+    "Reference": "JMB446719705",
+    "Nama": "SUMARMI",
+    "Tanggal": "2023-05-04 09:35:46"
+}
+2023-05-04 09:37:34 {
+    "VirtualAccount": "100290230504009",
+    "Amount": 76500,
+    "Reference": "JMB446721215",
+    "Nama": "KUSMINIWATI",
+    "Tanggal": "2023-05-04 09:37:32"
+}
+2023-05-04 09:38:36 {
+    "VirtualAccount": "100290230504011",
+    "Amount": 76500,
+    "Reference": "JMB446722151",
+    "Nama": "HELEN CHRISTANTRY",
+    "Tanggal": "2023-05-04 09:38:35"
+}
+2023-05-04 09:38:58 {
+    "VirtualAccount": "100290230504012",
+    "Amount": 76500,
+    "Reference": "JMB446722464",
+    "Nama": "RACHMAD",
+    "Tanggal": "2023-05-04 09:38:57"
+}
+2023-05-04 09:39:16 {
+    "VirtualAccount": "100290230504010",
+    "Amount": 79500,
+    "Reference": "JMB446722726",
+    "Nama": "J FERRY SATRIA",
+    "Tanggal": "2023-05-04 09:39:14"
+}
+2023-05-04 09:39:34 {
+    "VirtualAccount": "100290002305054",
+    "Amount": 100000,
+    "Reference": "JMB446723021",
+    "Nama": "JUARIYAH",
+    "Tanggal": "2023-05-04 09:39:33"
+}
+2023-05-04 09:39:56 {
+    "VirtualAccount": "100290002305055",
+    "Amount": 100000,
+    "Reference": "JMB446723336",
+    "Nama": "JARKASI",
+    "Tanggal": "2023-05-04 09:39:53"
+}
+2023-05-04 09:40:41 {
+    "VirtualAccount": "100290230504013",
+    "Amount": 76500,
+    "Reference": "JMB446723932",
+    "Nama": "ZIMMY EKO EDYANTO",
+    "Tanggal": "2023-05-04 09:40:32"
+}
+2023-05-04 09:42:20 {
+    "VirtualAccount": "100290230504014",
+    "Amount": 76500,
+    "Reference": "JMB446725476",
+    "Nama": "I NENGAH NGETIS SUARJANA",
+    "Tanggal": "2023-05-04 09:42:14"
+}
+2023-05-04 09:42:40 {
+    "VirtualAccount": "100290002305056",
+    "Amount": 100000,
+    "Reference": "JMB446725830",
+    "Nama": "PRIYO SETIYONO",
+    "Tanggal": "2023-05-04 09:42:38"
+}
+2023-05-04 09:43:05 {
+    "VirtualAccount": "100290230504015",
+    "Amount": 76500,
+    "Reference": "JMB446726128",
+    "Nama": "WAHIDIN TJANDRA SAPUTRA",
+    "Tanggal": "2023-05-04 09:43:03"
+}
+2023-05-04 09:43:25 {
+    "VirtualAccount": "100290230504016",
+    "Amount": 76500,
+    "Reference": "JMB446726436",
+    "Nama": "DANIELE ARGA SAMUDRA",
+    "Tanggal": "2023-05-04 09:43:24"
+}
+2023-05-04 09:44:00 {
+    "VirtualAccount": "100290002305057",
+    "Amount": 100000,
+    "Reference": "JMB446726932",
+    "Nama": "MOHAMAD  WAHYUDI",
+    "Tanggal": "2023-05-04 09:43:56"
+}
+2023-05-04 09:44:27 {
+    "VirtualAccount": "100290230504017",
+    "Amount": 76500,
+    "Reference": "JMB446727387",
+    "Nama": "UNIVERSITAS BRAWIJAYA",
+    "Tanggal": "2023-05-04 09:44:25"
+}
+2023-05-04 09:45:40 {
+    "VirtualAccount": "100290230504018",
+    "Amount": 143000,
+    "Reference": "JMB446728479",
+    "Nama": "PT PELITA AMAN ABADI",
+    "Tanggal": "2023-05-04 09:45:38"
+}
+2023-05-04 09:45:59 {
+    "VirtualAccount": "100290230504019",
+    "Amount": 76500,
+    "Reference": "JMB446728745",
+    "Nama": "ERIC RAHARDJA",
+    "Tanggal": "2023-05-04 09:45:56"
+}
+2023-05-04 09:47:01 {
+    "VirtualAccount": "100290230504020",
+    "Amount": 76500,
+    "Reference": "JMB446729667",
+    "Nama": "RUDYANTO INDRA C",
+    "Tanggal": "2023-05-04 09:46:59"
+}
+2023-05-04 09:47:22 {
+    "VirtualAccount": "100290002305058",
+    "Amount": 100000,
+    "Reference": "JMB446729991",
+    "Nama": "SIONO",
+    "Tanggal": "2023-05-04 09:47:20"
+}
+2023-05-04 09:49:51 {
+    "VirtualAccount": "100290230504021",
+    "Amount": 75000,
+    "Reference": "JMB446732224",
+    "Nama": "PT BOROBUDUR M",
+    "Tanggal": "2023-05-04 09:49:48"
+}
+2023-05-04 09:50:13 {
+    "VirtualAccount": "100290002305059",
+    "Amount": 100000,
+    "Reference": "JMB446732574",
+    "Nama": "BAROKAH YUSWONO",
+    "Tanggal": "2023-05-04 09:50:11"
+}
+2023-05-04 09:50:42 {
+    "VirtualAccount": "100290230504026",
+    "Amount": 75000,
+    "Reference": "JMB446733025",
+    "Nama": "ANEKA WARNA UD",
+    "Tanggal": "2023-05-04 09:50:39"
+}
+2023-05-04 09:51:23 {
+    "VirtualAccount": "100290230504025",
+    "Amount": 75000,
+    "Reference": "JMB446733601",
+    "Nama": "PT BRINGIN GIGANTARA",
+    "Tanggal": "2023-05-04 09:51:18"
+}
+2023-05-04 09:52:03 {
+    "VirtualAccount": "100290230504024",
+    "Amount": 75000,
+    "Reference": "JMB446734328",
+    "Nama": "ICUK OLAN CAHYONO",
+    "Tanggal": "2023-05-04 09:52:02"
+}
+2023-05-04 09:52:29 {
+    "VirtualAccount": "100290230504027",
+    "Amount": 75000,
+    "Reference": "JMB446734702",
+    "Nama": "TJIONG BING DJIANG",
+    "Tanggal": "2023-05-04 09:52:26"
+}
+2023-05-04 09:52:54 {
+    "VirtualAccount": "100290230504023",
+    "Amount": 110000,
+    "Reference": "JMB446735110",
+    "Nama": "KOPERASI JASA KERABAT AMANAH TRANS",
+    "Tanggal": "2023-05-04 09:52:53"
+}
+2023-05-04 09:53:32 {
+    "VirtualAccount": "100290230504028",
+    "Amount": 76500,
+    "Reference": "JMB446735647",
+    "Nama": "DEWANTO",
+    "Tanggal": "2023-05-04 09:53:30"
+}
+2023-05-04 09:55:21 {
+    "VirtualAccount": "100290230504029",
+    "Amount": 85000,
+    "Reference": "JMB446737238",
+    "Nama": "B ISDWI MURNI A",
+    "Tanggal": "2023-05-04 09:55:18"
+}
+2023-05-04 09:55:41 {
+    "VirtualAccount": "100290230504030",
+    "Amount": 76500,
+    "Reference": "JMB446737544",
+    "Nama": "SALIM",
+    "Tanggal": "2023-05-04 09:55:37"
+}
+2023-05-04 09:56:19 {
+    "VirtualAccount": "100290002305060",
+    "Amount": 100000,
+    "Reference": "JMB446738180",
+    "Nama": "N G A T E N O",
+    "Tanggal": "2023-05-04 09:56:17"
+}
+2023-05-04 09:56:43 {
+    "VirtualAccount": "100290002305062",
+    "Amount": 100000,
+    "Reference": "JMB446738517",
+    "Nama": "WIDODO",
+    "Tanggal": "2023-05-04 09:56:41"
+}
+2023-05-04 09:57:08 {
+    "VirtualAccount": "100290230504032",
+    "Amount": 75000,
+    "Reference": "JMB446738834",
+    "Nama": "IRWAN SUSANTO",
+    "Tanggal": "2023-05-04 09:57:04"
+}
+2023-05-04 09:57:38 {
+    "VirtualAccount": "100290230504031",
+    "Amount": 76500,
+    "Reference": "JMB446739348",
+    "Nama": "EDDY SANTOSA",
+    "Tanggal": "2023-05-04 09:57:36"
+}
+2023-05-04 09:58:04 {
+    "VirtualAccount": "100290002305063",
+    "Amount": 25000,
+    "Reference": "JMB446739737",
+    "Nama": "GEREJA YESUS HIDUP SEJATI",
+    "Tanggal": "2023-05-04 09:58:03"
+}
+2023-05-04 09:59:09 {
+    "VirtualAccount": "100290230504035",
+    "Amount": 76500,
+    "Reference": "JMB446740783",
+    "Nama": "OTO MULTIARTHA, PT",
+    "Tanggal": "2023-05-04 09:59:07"
+}
+2023-05-04 09:59:53 {
+    "VirtualAccount": "100290230504033",
+    "Amount": 76500,
+    "Reference": "JMB446741507",
+    "Nama": "SUSIANAH",
+    "Tanggal": "2023-05-04 09:59:51"
+}
+2023-05-04 10:01:37 {
+    "VirtualAccount": "100290230504034",
+    "Amount": 76500,
+    "Reference": "JMB446743206",
+    "Nama": "HERY SUNARTO",
+    "Tanggal": "2023-05-04 10:01:36"
+}
+2023-05-04 10:02:50 {
+    "VirtualAccount": "100290230504037",
+    "Amount": 75000,
+    "Reference": "JMB446744375",
+    "Nama": "KHUSNUL KHOTIMAH",
+    "Tanggal": "2023-05-04 10:02:48"
+}
+2023-05-04 10:03:15 {
+    "VirtualAccount": "100290230504036",
+    "Amount": 76500,
+    "Reference": "JMB446744735",
+    "Nama": "RUDI ARIANTO",
+    "Tanggal": "2023-05-04 10:03:14"
+}
+2023-05-04 10:16:40 {
+    "VirtualAccount": "100290230504049",
+    "Amount": 76500,
+    "Reference": "JMB446757293",
+    "Nama": "LADI",
+    "Tanggal": "2023-05-04 10:16:39"
+}
+2023-05-04 10:22:10 {
+    "VirtualAccount": "100290002305075",
+    "Amount": 100000,
+    "Reference": "JMB446762387",
+    "Nama": "ARBAI",
+    "Tanggal": "2023-05-04 10:22:08"
+}
+2023-05-04 10:22:41 {
+    "VirtualAccount": "100290230504048",
+    "Amount": 143000,
+    "Reference": "JMB446762843",
+    "Nama": "PT BERKAT LALULALANGTRANSINDO",
+    "Tanggal": "2023-05-04 10:22:36"
+}
+2023-05-04 10:23:01 {
+    "VirtualAccount": "100290002305064",
+    "Amount": 76500,
+    "Reference": "JMB446763261",
+    "Nama": "S U Y A T N O",
+    "Tanggal": "2023-05-04 10:23:00"
+}
+2023-05-04 10:23:51 {
+    "VirtualAccount": "100290002305065",
+    "Amount": 87000,
+    "Reference": "JMB446764041",
+    "Nama": "PT ADI SARANA ARMADA TBK",
+    "Tanggal": "2023-05-04 10:23:49"
+}
+2023-05-04 10:24:22 {
+    "VirtualAccount": "100290002305074",
+    "Amount": 100000,
+    "Reference": "JMB446764483",
+    "Nama": "SITI NUR CHASANAH",
+    "Tanggal": "2023-05-04 10:24:17"
+}
+2023-05-04 10:24:52 {
+    "VirtualAccount": "100290230504047",
+    "Amount": 76500,
+    "Reference": "JMB446765094",
+    "Nama": "YUDI IRAWAN WIJAYA",
+    "Tanggal": "2023-05-04 10:24:51"
+}
+2023-05-04 10:25:38 {
+    "VirtualAccount": "100290002305069",
+    "Amount": 100000,
+    "Reference": "JMB446765804",
+    "Nama": "PT ANINDO BERTAHANNUTS PERKASA",
+    "Tanggal": "2023-05-04 10:25:35"
+}
+2023-05-04 10:26:41 {
+    "VirtualAccount": "100290002305073",
+    "Amount": 100000,
+    "Reference": "JMB446766827",
+    "Nama": "REJEKI SUKSES S",
+    "Tanggal": "2023-05-04 10:26:40"
+}
+2023-05-04 10:27:13 {
+    "VirtualAccount": "100290230504045",
+    "Amount": 76500,
+    "Reference": "JMB446767249",
+    "Nama": "FATIMAH",
+    "Tanggal": "2023-05-04 10:27:08"
+}
+2023-05-04 10:27:30 {
+    "VirtualAccount": "100290002305072",
+    "Amount": 100000,
+    "Reference": "JMB446767574",
+    "Nama": "PT KUSUMA SATRIA DINASASRI WISATAJAYA",
+    "Tanggal": "2023-05-04 10:27:28"
+}
+2023-05-04 10:27:53 {
+    "VirtualAccount": "100290230504046",
+    "Amount": 119500,
+    "Reference": "JMB446767897",
+    "Nama": "DIDIK SULISWANTO",
+    "Tanggal": "2023-05-04 10:27:50"
+}
+2023-05-04 10:28:17 {
+    "VirtualAccount": "100290230504044",
+    "Amount": 76500,
+    "Reference": "JMB446768264",
+    "Nama": "FAUZAN RIFKY KURNIAWAN",
+    "Tanggal": "2023-05-04 10:28:15"
+}
+2023-05-04 10:28:39 {
+    "VirtualAccount": "100290002305071",
+    "Amount": 100000,
+    "Reference": "JMB446768612",
+    "Nama": "WIYONO",
+    "Tanggal": "2023-05-04 10:28:36"
+}
+2023-05-04 10:28:54 {
+    "VirtualAccount": "100290002305070",
+    "Amount": 100000,
+    "Reference": "JMB446768886",
+    "Nama": "SOPI I",
+    "Tanggal": "2023-05-04 10:28:53"
+}
+2023-05-04 10:29:15 {
+    "VirtualAccount": "100290230504043",
+    "Amount": 76500,
+    "Reference": "JMB446769190",
+    "Nama": "MARUF TOHARI",
+    "Tanggal": "2023-05-04 10:29:13"
+}
+2023-05-04 10:29:34 {
+    "VirtualAccount": "100290002305068",
+    "Amount": 100000,
+    "Reference": "JMB446769481",
+    "Nama": "KUSNUL ANJANI",
+    "Tanggal": "2023-05-04 10:29:32"
+}
+2023-05-04 10:29:55 {
+    "VirtualAccount": "100290230504042",
+    "Amount": 78500,
+    "Reference": "JMB446769810",
+    "Nama": "HARI SUYITNO",
+    "Tanggal": "2023-05-04 10:29:54"
+}
+2023-05-04 10:30:51 {
+    "VirtualAccount": "100290002305067",
+    "Amount": 110000,
+    "Reference": "JMB446770627",
+    "Nama": "PT GRAHA RENINDO",
+    "Tanggal": "2023-05-04 10:30:49"
+}
+2023-05-04 10:31:15 {
+    "VirtualAccount": "100290002305066",
+    "Amount": 110000,
+    "Reference": "JMB446770990",
+    "Nama": "PT BANK MAYBANK INDONESIA TBK",
+    "Tanggal": "2023-05-04 10:31:12"
+}
+2023-05-04 10:31:38 {
+    "VirtualAccount": "100290230504041",
+    "Amount": 140000,
+    "Reference": "JMB446771370",
+    "Nama": "PT JANTI SARANA MATERIAL B",
+    "Tanggal": "2023-05-04 10:31:36"
+}
+2023-05-04 10:32:01 {
+    "VirtualAccount": "100290230504040",
+    "Amount": 75000,
+    "Reference": "JMB446771723",
+    "Nama": "PT SURYA MADISTRINDO",
+    "Tanggal": "2023-05-04 10:31:59"
+}
+2023-05-04 10:32:24 {
+    "VirtualAccount": "100290230504038",
+    "Amount": 143000,
+    "Reference": "JMB446772067",
+    "Nama": "PT PANDU ANUGRAH LESTARI",
+    "Tanggal": "2023-05-04 10:32:23"
+}
+2023-05-04 10:32:41 {
+    "VirtualAccount": "100290230504039",
+    "Amount": 76500,
+    "Reference": "JMB446772297",
+    "Nama": "PT ASTRA INTERNATIONAL TBK",
+    "Tanggal": "2023-05-04 10:32:40"
+}
+2023-05-04 10:33:11 {
+    "VirtualAccount": "100290002305076",
+    "Amount": 110000,
+    "Reference": "JMB446772716",
+    "Nama": "RUDI HARTONO",
+    "Tanggal": "2023-05-04 10:33:09"
+}
+2023-05-04 11:01:15 {
+    "VirtualAccount": "100290230504051",
+    "Amount": 75000,
+    "Reference": "JMB446798270",
+    "Nama": "H. ACHMAD RACHMAD SOEGIARTO",
+    "Tanggal": "2023-05-04 11:01:14"
+}
+2023-05-04 11:19:23 
+2023-05-04 11:19:27 
