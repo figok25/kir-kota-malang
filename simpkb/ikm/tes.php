@@ -1,1 +1,0 @@
-<img alt="testing" src="barcode.php?text=testing&size=40" />
