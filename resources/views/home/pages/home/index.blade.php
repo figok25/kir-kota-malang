@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","Home | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Home | UPT. Pengelolaan Prasarana Perhubungan Kota Malang")
 @section('css')
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
@@ -98,7 +98,7 @@
             @empty
             <p>kosong</p>
             @endforelse
-            
+
         </div>
     </section>
 
@@ -197,7 +197,7 @@
               @endforelse
           </div>
       </div>
-      
+
 
         <!-- Contact Section -->
         <section id="kontak" class="contact section">
