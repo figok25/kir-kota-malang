@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","Galeri | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Galeri | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
 @section('css')
     <link href="{{ URL::to('/') }}/assets/css/galery/style.css" rel="stylesheet">
 @endsection
@@ -36,7 +36,7 @@
     <div class="container d-flex justify-content-center">
         {!!$table->links()!!}
     </div>
-    
+
 @endsection
 
 @section('script')
@@ -70,7 +70,7 @@
                     } else if (['wmv', 'mkv', 'mp4', 'avi'].includes(fileExtension)) {
                         $('#modal-content').html('<video width="100%" height="100%" controls><source src="{{ asset('storage/') }}/' + data_image + '" type="video/' + fileExtension + '">Your browser does not support the video tag.</video>');
                     }
-                    
+
                     $('#description').text(data.description);
                 });
             });

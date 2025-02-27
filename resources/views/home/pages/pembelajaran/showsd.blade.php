@@ -1,8 +1,8 @@
 @extends('home.layouts.master')
-@section("title","Pembelajaran SD | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Pembelajaran SD | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
 @section("css")
         <link  href="{{URL::to('/')}}/assets/css/pembelajaran/stylesd.css" rel="stylesheet">
-        
+
 @endsection
 @section("content")
 <div class="container mt-5">

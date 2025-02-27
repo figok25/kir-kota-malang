@@ -1,7 +1,7 @@
 @extends('home.layouts.master')
-@section("title","". $result->title ." | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","". $result->title ." | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
 @section('css')
-    
+
 @endsection
 @section('content')
 <br>
@@ -11,7 +11,7 @@
         <div class="col-12">
 
             <h1 class=""><b>{{ $result->title }}</b></h1>
-            
+
             <style>
                 img {
                     max-width: 100%;
@@ -24,10 +24,10 @@
             <p >{!! $result->renderTrix("content") !!}</p>
 
         </div>
-        
+
     </div>
 </div>
 @endsection
 @section('script')
-    
+
 @endsection

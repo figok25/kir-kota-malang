@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","Inovasi | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Inovasi | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
 @section("css")
 <link  href="assets/css/inovasi/style.css" rel="stylesheet">
 @endsection
@@ -16,7 +16,7 @@
                 <span class="tanggal">
                     {{ Carbon\Carbon::parse($row->date)->translatedFormat('l,d F Y') }}
                 </span>
-                <a href="{{route('home.inovasi.show', $row->id)}}"><h5 >{{ $row->title }}</h5></a> 
+                <a href="{{route('home.inovasi.show', $row->id)}}"><h5 >{{ $row->title }}</h5></a>
                 <p> {!! Str::limit(strip_tags($row->renderTrix('content')), 100) !!}</p>
             </div>
             @empty

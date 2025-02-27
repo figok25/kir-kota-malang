@@ -1,7 +1,7 @@
 @extends('home.layouts.master')
-@section("title","Informasi | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Informasi | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
 @section("css")
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> 
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         #filtering .btn{
             background-color: #388da8 !important;
@@ -92,7 +92,7 @@
                                         @elseif($row->file_link != null)
                                             <a href="{{ URL::to($row->file_link) }}" target="_blank" class="btn btn-success mx-1"><i class="fa fa-plus"></i> Lihat</a>
                                             <a href="{{ URL::to($row->file_link) }}" class="btn btn-primary mx-1" download><i class="fa fa-plus"></i>Download</a>
-                                        @endif                      
+                                        @endif
                                     </div>
                                 </td>
                             </tr>
@@ -144,7 +144,7 @@
             });
         });
     </script>
-    
+
     <script>
         // $(document).ready(function () {
         //     $("#basic-datatables").DataTable({

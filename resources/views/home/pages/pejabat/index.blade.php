@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","Kepala dan Pejabat | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Kepala dan Pejabat | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
 @section("content")
 <section id="so" class="so section">
   <div class="so-bg">
@@ -22,20 +22,20 @@
           <img src="{{ asset('storage/' . $row->image) }}" class="card__image" alt="" />
           <div class="card__overlay">
             <div class="card__header">
-              <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+              <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
               <div class="card__header-text">
-                <h3 class="card__title"><b>{{ $row->nama }}</b></h3>            
+                <h3 class="card__title"><b>{{ $row->nama }}</b></h3>
                 <span class="card__status text-black-50">{{ $row->jabatan }}</span>
               </div>
             </div>
           </div>
-        </div>      
-      </li>   
+        </div>
+      </li>
       @empty
           <p>Tidak ada data</p>
       @endforelse
     </ul>
   </div>
 </section>
-  
+
 @endsection
