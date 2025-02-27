@@ -49,7 +49,7 @@
                             <div class="col-sm-9 col-md-8 col-lg-7 col-xxl-7 offset-lg-1 offset-xxl-0">
                                 <h1 class="oh swiper-title kanit-black">
                                     <span class="d-inline-block" data-caption-animate="slideInUp"
-                                        data-caption-delay="0">Dikbud</span>
+                                        data-caption-delay="0">UPT Pengelolaan Prasarana Perhubungan Kota Malang</span>
                                 </h1>
 
                             </div>
