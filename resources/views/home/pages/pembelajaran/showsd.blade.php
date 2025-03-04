@@ -18,7 +18,7 @@
                 <li><a class="dropdown-item" href="#">Kelas 3</a></li>
                 <li><a class="dropdown-item" href="#">Kelas 4</a></li>
                 <li><a class="dropdown-item" href="#">Kelas 5</a></li>
-                <li><a class="dropdown-item" href="#">Kelas 6</a></li
+                <li><a class="dropdown-item" href="#">Kelas 6</a></li>
             </ul>
         </div>
     <div class="row mt-5">
