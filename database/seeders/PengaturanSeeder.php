@@ -15,15 +15,15 @@ class PengaturanSeeder extends Seeder
     public function run(): void
     {
         Pengaturan::firstOrCreate([
-            'website_name' => 'Dishub'
+            'website_name' => 'Balai Uji KIR Malang Kotag'
             ],[
-            'website_name' => 'Dishub',
+            'website_name' => 'Balai Uji KIR Malang Kotag',
             'website_email' => 'dishub@malangkota.go.id',
             'website_phone' => '(0341)-551333',
-            'website_maps' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1975.7025720451807!2d112.61286593974458!3d-7.957016122577707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78827beffc2665%3A0x9dd38763e9a56b77!2sDinas%20Pendidikan%20dan%20Kebudayaan%20Kota%20Malang!5e0!3m2!1sid!2sid!4v1723041477716!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
+            'website_maps' => '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.537169818673!2d112.64262989999999!3d-8.0465577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd62774bb79a3ef%3A0xd164aaf1941467f2!2sBalai%20Uji%20KIR%20Malang%20Kota!5e0!3m2!1sid!2sid!4v1742614235163!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
             'website_motto' => 'Bekerja Bersama, Bersama Bekerja Untuk Mewujudkan Merdeka Belajar Mudah, Efektif, Ramah, Disiplin, Efisien, Kolaboratif, dan Akuntabel Dalam Melayani ',
             'website_logo' => '',
-            'website_address' => 'Jl. Veteran No.19, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145',
+            'website_address' => 'Jl. Mayjen Sungkono No.06, Arjowinangun, Kec. Kedungkandang, Kota Malang, Jawa Timur 65132',
             ]);
     }
 }
