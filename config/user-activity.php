@@ -3,8 +3,8 @@
 return [
     'activated'        => true, // active/inactive all logging
     'middleware'       => ['web', 'auth'],
-    'route_path'       => 'dashboard/user-activity',
-    'admin_panel_path' => 'dashboard/',
+    'route_path'       => 'activity',
+    'admin_panel_path' => 'kir/',
     'delete_limit'     => 7, // default 7 days
 
     'model' => [

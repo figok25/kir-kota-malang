@@ -43,7 +43,7 @@ class StoreRequest extends FormRequest
         if (! $this->wantsJson()) {
             $errors = implode('<br>', $validator->errors()->all());
             alert()->html('Gagal',$errors,'error');
-            $this->redirect = route('dashboard.galeri.create');
+            $this->redirect = route('kir.galeri.create');
         }
 
         parent::failedValidation($validator);

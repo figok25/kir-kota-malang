@@ -20,8 +20,8 @@ Route::fallback(function () {
 });
 
 //MIDDLEWARE
-Route::group(["middleware" => ["dashboard.access"], "namespace" => "App\Http\Controllers\Dashboard", "as" => "dashboard.", "prefix" => "dashboard"], function () {
-    Route::get("/", "DashboardController@index")->name('dashboard.index');
+Route::group(["middleware" => ["kir.access"], "namespace" => "App\Http\Controllers\Kir", "as" => "kir.", "prefix" => "kir"], function () {
+    Route::get("/", "KirController@index")->name('kir.index');
 
     //PROFILE PAGE
     Route::group(["as" => "profile.", "prefix" => "profile"], function () {
@@ -187,11 +187,7 @@ Route::group(["namespace" => "App\Http\Controllers\Auth", "as" => "auth.", "pref
 });
 
 
-// //DASHBOARD ADMIN
-// Route::group(["namespace"=>"App\Http\Controllers\Dashboard", "as"=>"dashboard.", "prefix"=>"dashboard"], function(){
-//     Route::get("/", "DashboardController@index")->name('dashboard.index');
 
-// });
 
 //HOME
 Route::group(["namespace" => "App\Http\Controllers\Home", "as" => "home."], function () {

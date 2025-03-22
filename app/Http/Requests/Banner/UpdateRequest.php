@@ -43,7 +43,7 @@ class UpdateRequest extends FormRequest
         if (! $this->wantsJson()) {
             $errors = implode('<br>', $validator->errors()->all());
             alert()->html('Gagal',$errors,'error');
-            $this->redirect = route('dashboard.banner.edit', request()->route()->parameter('id'));
+            $this->redirect = route('kir.banner.edit', request()->route()->parameter('id'));
         }
 
         parent::failedValidation($validator);

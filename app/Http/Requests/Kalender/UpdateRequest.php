@@ -50,7 +50,7 @@ class UpdateRequest extends FormRequest
         if (! $this->wantsJson()) {
             $errors = implode('<br>', $validator->errors()->all());
             alert()->html('Gagal',$errors,'error');
-            $this->redirect = route('dashboard.kalender.create');
+            $this->redirect = route('kir.kalender.create');
         }
 
         parent::failedValidation($validator);
