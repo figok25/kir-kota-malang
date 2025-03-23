@@ -28,7 +28,6 @@
                                         <th>Nama</th>
                                         <th>Jabatan</th>
                                         <th>Image</th>
-                                        <th>Dibuat Pada</th>
                                         <th>Aksi</th>
                                     </thead>
                                     <tbody>
