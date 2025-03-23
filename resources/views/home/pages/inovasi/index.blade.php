@@ -5,7 +5,7 @@
 @endsection
 @section("content")
 <div class="inov-bg">
-    <img src="{{URL::to('/')}}/assets/img/c.png" alt="">
+    {{-- <img src="{{URL::to('/')}}/assets/img/c.png" alt=""> --}}
 </div>
 <div class="container mt-4" style="margin-top: 80px">
         <h1 class="text-center">Inovasi</h1>

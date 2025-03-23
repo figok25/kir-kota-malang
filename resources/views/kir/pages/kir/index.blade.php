@@ -1,5 +1,5 @@
 @extends('kir.layouts.master')
-@section("title","Kir ~ DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Kir ~ BALAI UJI KIR MALANG KOTA")
 @section("title_breadcumb","Kir")
 @section('css')
     <link rel="stylesheet" href="{{URL::to('/')}}/assets/css/clock.css">

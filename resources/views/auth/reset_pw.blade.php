@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" shrink-to-fit=no">
-        <title>Ganti Password | DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG</title>
+        <title>Ganti Password | BALAI UJI KIR MALANG KOTA</title>
         <meta content="" name="description">
         <meta content="" name="keywords">
     
@@ -56,7 +56,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-md-7">
                     <h3>Ganti Password Baru</h3>
-                        <strong>DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG</strong>
+                        <strong>BALAI UJI KIR MALANG KOTA</strong>
                             <form action="{{ route('auth.reset_pw.post') }}" method="POST" class="user">
                                 @csrf
                                 <div class="form-group first">
@@ -74,7 +74,7 @@
                                 <div class="form-group last mb-3">
                                     <input type="hidden" name="token" value="{{$target->token}}">
                                 </div>
-                                <input type="submit" value="Reset" class="btn btn-block btn-primary" style="background-color: #388da8 !important; border:none !important;">
+                                <input type="submit" value="Reset" class="btn btn-block btn-primary" style="background-color: #2a0f60 !important; border:none !important;">
                             </form>
                         </div>
                 </div>

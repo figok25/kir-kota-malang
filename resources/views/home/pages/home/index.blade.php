@@ -41,7 +41,7 @@
                     </div>
                 </div>
             @empty
-            <div class="swiper-slide context-dark" id="swipper" data-slide-bg="https://dikbud.malangkota.go.id/uploads/images/news_1722931804.jpg"
+            <div class="swiper-slide context-dark" id="swipper" data-slide-bg="https://i.pinimg.com/474x/80/c0/ec/80c0ec0db9f3db5bb0b4ebcf128797da.jpg"
                 alt="">
                 <div class="swiper-slide-caption section-md">
                     <div class="container" id="swipper_tittle">
@@ -49,7 +49,7 @@
                             <div class="col-sm-9 col-md-8 col-lg-7 col-xxl-7 offset-lg-1 offset-xxl-0">
                                 <h1 class="oh swiper-title kanit-black">
                                     <span class="d-inline-block" data-caption-animate="slideInUp"
-                                        data-caption-delay="0">UPT Pengelolaan Prasarana Perhubungan Kota Malang</span>
+                                        data-caption-delay="0">DISHUB</span>
                                 </h1>
 
                             </div>

@@ -1,5 +1,5 @@
-@extends('kir.master')
-@section("title","Users ~ DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@extends('kir.layouts.master')
+@section("title","Users ~ BALAI UJI KIR MALANG KOTA")
 @section("title_breadcumb","Users")
 @section("css")
 <!-- Datetime picker -->
@@ -109,7 +109,7 @@
     <!-- Datetimepicker -->
     <script src="{{URL::to('/')}}/assets/js/kir/plugins/moment/moment.min.js"></script>
     <script src="{{URL::to('/')}}/assets/js/kir/plugins/datetimepicker/jquery.datetimepicker.min.js"></script>
-    <script src="{{URL::to('/')}}/assets/js/kir/plugins/axios/axios.min.jss"></script>
+    <script src="{{URL::to('/')}}/assets/js/kir/plugins/axios/axios.min.js"></script>
     <script>
         $(function(){
 

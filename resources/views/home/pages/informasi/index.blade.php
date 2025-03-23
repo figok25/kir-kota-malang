@@ -4,7 +4,7 @@
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         #filtering .btn{
-            background-color: #388da8 !important;
+            background-color: #2a0f60 !important;
             border: none;
         }
     </style>

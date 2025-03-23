@@ -52,7 +52,7 @@
 			font-size: 180px;
 			font-weight: 700;
 			margin: 0px;
-			color: #388da8;
+			color: #2a0f60;
 			position: relative;
 			display: flex;
 			align-items: center;
@@ -92,7 +92,7 @@
 			display: inline-block;
 			padding: 12px 30px;
 			font-weight: 700;
-			background-color: #388da8;
+			background-color: #2a0f60;
 			color: #fff;
 			border-radius: 40px;
 			text-decoration: none;

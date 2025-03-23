@@ -13,7 +13,7 @@
     --background-color: #ffffff; /* Background color for the entire website, including individual sections */
     --default-color: #3d4348; /* Default color used for the majority of the text content across the entire website */
     --heading-color: #3e5055; /* Color for headings, subheadings and title throughout the website */
-    --accent-color: #388da8; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+    --accent-color: #2a0f60; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
     --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
     --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
@@ -21,11 +21,11 @@
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
     --nav-color: #ffffff; /* The default color of the main navmenu links */
-    --nav-hover-color: #77b6ca; /* Applied to main navmenu links when they are hovered over or active */
+    --nav-hover-color: #632DEC; /* Applied to main navmenu links when they are hovered over or active */
     --nav-mobile-background-color: #; /* Used as the background color for mobile navigation menu */
     --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
     --nav-dropdown-color: #313336; /* Used for navigation links of the dropdown items in the navigation menu. */
-    --nav-dropdown-hover-color: #77b6ca; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+    --nav-dropdown-hover-color: #632DEC; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
 
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
@@ -56,7 +56,7 @@
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
-    background: #388da8;
+    background: #2a0f60;
 }
 
   /* Handle */
@@ -66,7 +66,7 @@
 }
 
 .page-item.active .page-link {
-    background: #388da8 !important;
+    background: #2a0f60 !important;
     border: none;
 }
 /*--------------------------------------------------*/
@@ -167,7 +167,7 @@ h6 {
 .header {
     color: var(--default-color);
     /* background-color: var(--background-color); */
-    background-color: #388da8;
+    background-color: #2a0f60;
     padding: 9px 0;
     transition: all 0.5s;
     z-index: 997;
@@ -437,7 +437,7 @@ h6 {
         padding: 10px 0;
         margin: 0;
         border-radius: 6px;
-        background-color:#388da8;
+        background-color:#2a0f60;
         overflow-y: auto;
         transition: 0.3s;
         z-index: 9998;
@@ -1674,7 +1674,7 @@ section,
 
 .berita .berita-item:hover .berita-img::before {
     height: 100%;
-    background: rgba(156, 230, 243, 0.448);
+    background: rgba(238, 231, 255, 0.448);
 }
 
 .berita .berita-item .berita-img:hover img {
@@ -1706,13 +1706,13 @@ section,
     left: 0;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    background: rgba(21, 185, 217, 0.5);
+    background: #7745f6;
     transition: 0.5s;
     z-index: 3;
 }
 
 .berita .berita-item:hover .berita-content::before {
-    background: rgba(21, 185, 217, 0.5);
+    background: #7745f6;
     height: 100%;
 }
 
@@ -1961,12 +1961,12 @@ button {
 .button-gray-8:hover,
 .button-gray-8:active {
     color: #151515;
-    background-color: #388da8;
-    border-color: #388da8;
+    background-color: #2a0f60;
+    border-color: #2a0f60;
 }
 
 .button-gray-8.button-ujarak::before {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .button-gray-8.button-outline::before {
@@ -1975,14 +1975,14 @@ button {
 
 .button-gray-8.button-outline:hover::before,
 .button-gray-8.button-outline:active::before {
-    border-color: #388da8;
+    border-color: #2a0f60;
 }
 
 .button-primary,
 .button-primary:focus {
     color: #151515;
-    background-color: #388da8;
-    border-color: #388da8;
+    background-color: #2a0f60;
+    border-color: #2a0f60;
 }
 
 .button-primary:hover,
@@ -1997,7 +1997,7 @@ button {
 }
 
 .button-primary.button-outline::before {
-    border-color: #388da8;
+    border-color: #2a0f60;
 }
 
 .button-primary.button-outline:hover::before,
@@ -2015,12 +2015,12 @@ button {
 .button-primary-2:hover,
 .button-primary-2:active {
     color: #ffffff;
-    background-color: #388da8;
-    border-color: #388da8;
+    background-color: #2a0f60;
+    border-color: #2a0f60;
 }
 
 .button-primary-2.button-ujarak::before {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .button-primary-2.button-outline::before {
@@ -2029,14 +2029,14 @@ button {
 
 .button-primary-2.button-outline:hover::before,
 .button-primary-2.button-outline:active::before {
-    border-color: #388da8;
+    border-color: #2a0f60;
 }
 
 .button-secondary,
 .button-secondary:focus {
     color: #151515;
-    background-color: #388da8;
-    border-color: #388da8;
+    background-color: #2a0f60;
+    border-color: #2a0f60;
 }
 
 .button-secondary:hover,
@@ -2051,7 +2051,7 @@ button {
 }
 
 .button-secondary.button-outline::before {
-    border-color: #388da8;
+    border-color: #2a0f60;
 }
 
 .button-secondary.button-outline:hover::before,
@@ -2069,12 +2069,12 @@ button {
 .button-secondary-2:hover,
 .button-secondary-2:active {
     color: #151515;
-    background-color: #388da8;
+    background-color: #2a0f60;
     border-color: #6046b6;
 }
 
 .button-secondary-2.button-ujarak::before {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .button-secondary-2.button-outline::before {
@@ -2176,7 +2176,7 @@ button {
 
 .button-default-outline-4:hover,
 .button-default-outline-4:active {
-    color: #388da8;
+    color: #2a0f60;
     background-color: transparent;
     border-color: rgba(255, 231, 69, 0.3);
 }
@@ -2311,11 +2311,11 @@ button {
 
 .button-shadow.button-primary:hover::before,
 .button-shadow.button-primary:active::before {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .button-shadow.button-secondary::before {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .button-shadow.button-secondary:hover::before,
@@ -2524,14 +2524,14 @@ button {
 .btn:active,
 .btn:focus {
     color: #ffffff;
-    background: #388da8;
-    border-color: #388da8;
+    background: #2a0f60;
+    border-color: #2a0f60;
 }
 
 .btn:hover {
     color: #ffffff;
-    background: #388da8;
-    border-color: #388da8;
+    background: #2a0f60;
+    border-color: #2a0f60;
 }
 
 .button-social {
@@ -2610,8 +2610,8 @@ button {
 .button-tags:hover,
 .button-tags:active {
     color: #151515;
-    background-color: #388da8;
-    border-color: #388da8;
+    background-color: #2a0f60;
+    border-color: #2a0f60;
 }
 
 .button-wrap.oh {
@@ -2934,7 +2934,7 @@ button {
     height: 0;
     top: 50%;
     left: 50%;
-    background: #388da8;
+    background: #2a0f60;
     border-radius: 50%;
     transform: translate3d(-50%, -50%, 0);
     transition: all 0.3s ease;
@@ -2975,7 +2975,7 @@ button {
 
 .swiper-bullet-line-2 {
     opacity: 1;
-    stroke: #388da8;
+    stroke: #2a0f60;
     stroke-dasharray: 63;
     stroke-dashoffset: 63;
     transition: stroke-dashoffset 0.5s;
@@ -3015,7 +3015,7 @@ button {
     .swiper-pagination-bullet:hover:not(
         .swiper-pagination-bullet-active
     )::before {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .swiper-pagination-2 .swiper-pagination-bullet.swiper-pagination-bullet-active {
@@ -3154,7 +3154,7 @@ button {
 .swiper-slider-1 .swiper-button-prev .swiper-button-line-2,
 .swiper-slider-1 .swiper-button-next .swiper-button-line-2 {
     opacity: 0;
-    stroke: #388da8;
+    stroke: #2a0f60;
     stroke-dasharray: 226;
     stroke-dashoffset: 226;
     transition: stroke-dashoffset 0.5s;
@@ -3310,7 +3310,7 @@ button {
 
 .swiper-slider-2 .swiper-button-prev:hover .swiper-button-arrow::after,
 .swiper-slider-2 .swiper-button-next:hover .swiper-button-arrow::after {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .swiper-slider-2 .swiper-button-prev:hover .preview,
@@ -3654,7 +3654,7 @@ button {
 
 .swiper-slider-5 .swiper-subtitle-2 {
     letter-spacing: 0.2em;
-    color: #388da8;
+    color: #2a0f60;
 }
 
 .swiper-slider-5 .button {
@@ -3743,7 +3743,7 @@ button {
 }
 
 .swiper-slider-6 .swiper-wrapper::before {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .swiper-slider-6 .button {
@@ -4050,7 +4050,7 @@ button {
 }
 
 .swiper-custom-container .list-share-2 .icon:hover {
-    background: #388da8;
+    background: #2a0f60;
 }
 
 .swiper-custom-container .list-share-2 a,

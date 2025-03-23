@@ -28,7 +28,7 @@
             background: #fff;
             padding: 20px;
             border-style: solid;
-            border-color: #388da8;
+            border-color: #2a0f60;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
@@ -43,7 +43,7 @@
         }
 
         hr{
-            border: 5px solid #388da8;
+            border: 5px solid #2a0f60;
         }
 
         .content {
@@ -73,7 +73,7 @@
             margin-top: 20px;
             text-align: center;
             font-size: 14px;
-            background-color: #388da8;
+            background-color: #2a0f60;
             color: #fff;
         }
         .btn{
@@ -83,27 +83,27 @@
             opacity: 1;
             border-radius: 3px;
             color: #ffffff;
-            background: #388da8;
-            border-color: #388da8;
+            background: #2a0f60;
+            border-color: #2a0f60;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
-            <a href="{{ route('home.home.index') }}"><img src="https://i.pinimg.com/originals/03/46/31/034631bbc43d2a965bb02266ca56de2b.png" alt="" height="80" width="80"></a>
+            <a href="{{ route('home.home.index') }}"><img src="https://i.pinimg.com/474x/80/c0/ec/80c0ec0db9f3db5bb0b4ebcf128797da.jpg" alt="" height="80" width="80"></a>
             <h1>Konfirmasi Reset Password</h1>
         </div>
         <hr>
         <div class="content">
             <p>Yang terhormat, {{ $recipient }}</p>
-            <p>Kami telah menerima permintaan untuk reset password dari akun website Dinas Pendidikan dan Kebudayaan Kota Malang. Klik link dibawah untuk melanjutkan proses reset password lama anda: </p>
+            <p>Kami telah menerima permintaan untuk reset password dari akun website BALAI UJI KIR MALANG KOTA. Klik link dibawah untuk melanjutkan proses reset password lama anda: </p>
             <a href="{{ route('auth.reset_pw.index',$token) }}" class="btn">Reset Password</a>
             <p>Jika kamu tidak menerima permintaan reset password, Harap abaikan pesan email ini!.</p>
-            <p>Terima Kasih,<br>Dinas Pendidikan dan Kebudayaan Kota Malang</p>
+            <p>Terima Kasih,<br>BALAI UJI KIR MALANG KOTA</p>
         </div>
         <div class="footer">
-            <p>&copy; {{ date('Y') }} Dinas Pendidikan dan Kebudayaan Kota Malang. All rights reserved.</p>
+            <p>&copy; {{ date('Y') }} BALAI UJI KIR MALANG KOTA. All rights reserved.</p>
         </div>
     </div>
 </body>

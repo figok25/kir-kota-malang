@@ -1,5 +1,5 @@
 @extends('kir.layouts.master')
-@section("title","Kontak ~ DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@section("title","Kontak ~ BALAI UJI KIR MALANG KOTA")
 @section("title_breadcumb","Kontak")
 @section('breadcumb')
     Kontak

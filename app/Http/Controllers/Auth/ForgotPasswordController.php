@@ -37,9 +37,9 @@ class ForgotPasswordController extends Controller
             //smtp mailer
             $mail_data = [
                 'recipient' =>$request->email,
-                'fromEmail' =>'dikbud@malangkota.go.id',
-                'fromName'  =>'DIKBUD',
-                'subject'   =>'Konfirmasi Lupa Password Akun Website DIKBUD Kota Malang',
+                'fromEmail' =>'dhevajaya@gmail.com',
+                'fromName'  =>'KIR',
+                'subject'   =>'Konfirmasi Lupa Password Akun Website KIR Kota Malang',
                 'body'      =>'Konfirmasi Lupa Password',
                 'token'     =>$token,
                 // 'resetLink' => url("/auth//reset_pw/{$token}?email=" . urlencode($request->email)),

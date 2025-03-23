@@ -1,5 +1,5 @@
-@extends('kirter')
-@section("title","Users ~ DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA MALANG")
+@extends('kir.layouts.master')
+@section("title","Users ~ BALAI UJI KIR MALANG KOTA")
 @section("title_breadcumb","Users")
 @section("css")
 <!-- Datetime picker -->
@@ -12,7 +12,7 @@
     <div class="col-xl-12">
         <div class="card m-b-30">
             <div class="card-body">
-                <form action="{{route('kire',$result->id)}}" method="post" autocomplete="off" onsubmit="confirm('Apakah anda yakin ingin mengirim data ini?')" enctype="multipart/form-data">
+                <form action="{{route('kir.users.update',$result->id)}}" method="post" autocomplete="off" onsubmit="confirm('Apakah anda yakin ingin mengirim data ini?')" enctype="multipart/form-data">
                     @csrf
                     @method("PUT")
                     <div class="row mb-3">
@@ -88,7 +88,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-12">
-                            <a href="{{route('kir.index')}}" class="btn btn-warning"><i class="fa fa-arrow-left"></i> Kembali</a>
+                            <a href="{{route('kir.users.index')}}" class="btn btn-warning"><i class="fa fa-arrow-left"></i> Kembali</a>
                             <button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> Simpan</button>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
     <!-- Datetimepicker -->
     <script src="{{URL::to('/')}}/assets/js/kir/plugins/moment/moment.min.js"></script>
     <script src="{{URL::to('/')}}/assets/js/kir/plugins/datetimepicker/jquery.datetimepicker.min.js"></script>
-    <script src="{{URL::to('/')}}/assets/js/kir/plugins/axios/axios.min.jss"></script>
+    <script src="{{URL::to('/')}}/assets/js/kir/plugins/axios/axios.min.js"></script>
     <script>
         $(function(){
 

@@ -7,7 +7,7 @@
         <a href="{{ route('home.home.index') }}" class="logo d-flex align-items-center me-auto">
             @if ($table_pengaturan->website_logo == null)
                 <img src="{{ URL::to('/') }}/assets/img/favicon.png" alt="">
-                <!-- <h1 class="sitename">Dinas Pendidikan dan Kebudayaan Kota Malang</h1> -->
+                <!-- <h1 class="sitename">BALAI UJI KIR MALANG KOTA</h1> -->
             @else
                 <img src="{{ asset('storage/' . $table_pengaturan->website_logo) }}" alt="">
             @endif
