@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","Struktur Organisasi | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
+@section("title","Struktur Organisasi | BALAI UJI KIR MALANG KOTA")
 @section("content")
 <section id="so" class="so section">
   <div class="so-bg">

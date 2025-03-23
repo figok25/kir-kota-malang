@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","Inovasi | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
+@section("title","Inovasi | BALAI UJI KIR MALANG KOTA")
 @section("css")
 <link  href="assets/css/inovasi/style.css" rel="stylesheet">
 @endsection

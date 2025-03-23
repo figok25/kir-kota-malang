@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","Galeri | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
+@section("title","Galeri | BALAI UJI KIR MALANG KOTA")
 @section('css')
     <link href="{{ URL::to('/') }}/assets/css/galery/style.css" rel="stylesheet">
 @endsection

@@ -1,5 +1,5 @@
 @extends('home.layouts.master')
-@section("title","SMP | UPT Pengelolaan Prasarana Perhubungan Kota Malang")
+@section("title","SMP | BALAI UJI KIR MALANG KOTA")
     @section("css")
         <link  href="{{URL::to('/')}}/assets/css/pembelajaran/stylesmp.css" rel="stylesheet">
     @endsection
