@@ -1,9 +1,9 @@
 @extends('home.layouts.master')
 @section("title","Struktur Organisasi | BALAI UJI KIR MALANG KOTA")
 @section("content")
-<section id="so" class="so section">
+<section id="so" class="so section" style="margin-top: 2cm;">
   <div class="so-bg">
-    {{-- <img src="{{URL::to('/')}}/assets/img/banner-so.png" alt=""> --}}
+    <img src="{{URL::to('/')}}/assets/img/SO_New.png" alt="">
   </div>
 </section>
 

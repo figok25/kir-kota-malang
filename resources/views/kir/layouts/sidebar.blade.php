@@ -61,7 +61,7 @@
               </a>
             </li>
             @endif
-            
+
             <li class="nav-item">
               <a href="{{route('kir.berita.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.berita')) active @endif">
                 <col class="row">
@@ -77,7 +77,7 @@
                 \App\Enums\RoleEnum::SuperAdmin,
                 \App\Enums\RoleEnum::Admin,
             ]))
-            
+
             <li class="nav-item">
               <a href="{{route('kir.galeri.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.galeri')) active @endif">
                 <col class="row">
@@ -97,7 +97,7 @@
                 </p>
               </a>
             </li>
-           
+
             <li class="nav-item">
               <a href="{{route('kir.tautan.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.tautan')) active @endif">
                 <i class="bx bx-link col-3 bx-tada-hover"></i>
@@ -136,7 +136,7 @@
 
             <li class="nav-item">
               <a href="{{route('kir.inovasi.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.inovasi')) active @endif">
-                <i class="bx bxs-been-here col-3 bx-tada-hover"></i> 
+                <i class="bx bxs-been-here col-3 bx-tada-hover"></i>
                   Inovasi
                 </p>
               </a>
@@ -144,7 +144,7 @@
 
             <li class="nav-item">
               <a href="{{route('kir.so.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.so')) active @endif">
-                <i class="bx bxs-vector col-3 bx-tada-hover"></i> 
+                <i class="bx bxs-vector col-3 bx-tada-hover"></i>
                 <p>
                   Struktur Organisasi
                 </p>
@@ -181,7 +181,7 @@
                 </p>
               </a>
             </li>
-            
+
             <li class="nav-item">
               <a href="{{route('kir.pengaturan.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.pengaturan')) active @endif">
                 <i class="bx bx-cog col-3 bx-tada-hover"></i>
@@ -190,14 +190,14 @@
                 </p>
               </a>
             </li>
-            <li class="nav-item">
-              <a href="/kir/user-activity" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.log')) active @endif">
+            {{-- <li class="nav-item">
+              <a href="{{route('kir.user-activity.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.log')) active @endif">
                 <i class="bx bx-history col-3 bx-tada-hover"></i>
                 <p>
                   Log
                 </p>
               </a>
-            </li>
+            </li> --}}
           @endif
         </ul>
       </nav>

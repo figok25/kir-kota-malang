@@ -1,11 +1,14 @@
 @extends('home.layouts.master')
 @section("title","Kepala dan Pejabat | BALAI UJI KIR MALANG KOTA")
+
 @section("content")
-<section id="so" class="so section">
-  <div class="so-bg">
-    {{-- <img src="{{URL::to('/')}}/assets/img/banner-so.png" alt=""> --}}
-  </div>
-</section>
+
+<section id="so" class="so section" style="margin-top: 2cm;">
+    <div class="so-bg">
+      <img src="{{URL::to('/')}}/assets/img/SO_New.png" alt="">
+    </div>
+  </section>
+
 
 {{-- team --}}
 <section>
