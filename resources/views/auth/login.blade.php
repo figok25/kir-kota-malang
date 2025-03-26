@@ -74,7 +74,7 @@
                                     </label>
                                     <span class="ml-auto"><a href="{{ route('auth.forgot_pw.index') }}" class="forgot-pass">Forgot Password</a></span>
                                 </div>
-                                {{-- captcha --}}
+                                <!-- {{-- captcha --}}
                                 <div class="m-3">
                                     <div class="col-md-4"></div>
                                     <div class="col-md-6">
@@ -82,7 +82,7 @@
                                         {!! NoCaptcha::renderJs() !!}
                                     </div>
                                 </div>
-                                {{-- end captcha --}}
+                                {{-- end captcha --}} -->
                                 <input type="submit" value="Log In" class="btn btn-block btn-primary" style="background-color: #2a0f60 !important; border:none !important;">
                             </form>
                         </div>

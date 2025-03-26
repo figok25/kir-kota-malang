@@ -31,11 +31,11 @@ class LoginRequest extends FormRequest
             'password' => [
             'required',
             'min:8',
-            ],
-            'g-recaptcha-response' => [
-            'required',
-            'captcha',
             ]
+            // 'g-recaptcha-response' => [
+            // 'required',
+            // 'captcha',
+            // ]
         ]; 
     }
 
