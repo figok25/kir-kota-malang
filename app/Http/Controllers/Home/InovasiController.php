@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Home;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Inovasi;
+use App\Models\DBPerhubungan;
 use App\Models\Pengaturan;
 use App\Models\Menu;
 use Illuminate\Pagination\Paginator;
@@ -24,27 +25,28 @@ class InovasiController extends Controller
     {
         $table_pengaturan = Pengaturan::first();
         $table_menu = Menu::all();
-
+    
         $search = $request->search;
-
         $table = $this->inovasi;
-
-        if(!empty($search)){
-            $table = $table->where(function($query2) use($search){
-                $query2->where("title","like","%".$search."%");
+    
+        if (!empty($search)) {
+            $table = $table->where(function($query2) use($search) {
+                $query2->where("title", "like", "%".$search."%");
             });
         }
-        $table = $table->orderBy("created_at","DESC");
-        $table = $table->paginate(10)->withQueryString();
-
-        $data = [
+    
+        $table = $table->orderBy("created_at", "DESC")->paginate(10)->withQueryString();
+    
+        $rfid = \App\Models\DBPerhubungan::limit(10)->get();
+    
+        return view($this->view . "index", [
             'table' => $table,
+            'rfid' => $rfid,
             'table_pengaturan' => $table_pengaturan,
-            'table_menu' => $table_menu, 
-        ];
-
-        return view($this->view."index",$data);
+            'table_menu' => $table_menu,
+        ]);
     }
+    
     public function show($id){
         $table_pengaturan = Pengaturan::first();
         $table_menu = Menu::all();

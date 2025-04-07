@@ -9,4 +9,6 @@ class DBPerhubungan extends Model
 {
     protected $connection = 'mysql_perhubungan';
     protected $table = 'datarfid';
+    protected $primaryKey = 'idx'; 
+    public $timestamps = false; 
 }
