@@ -1,6 +1,6 @@
 <?php
 
-
+use App\Http\Controllers\GambarController;
 use Illuminate\Support\Facades\Route;
 use App\Enums\RoleEnum;
 
@@ -215,7 +215,7 @@ Route::group(["namespace" => "App\Http\Controllers\Home", "as" => "home."], func
         Route::get("/{id}", "BeritaController@show")->name("show");
     });
 
-    Route::group(["as" => "inovasi.", "prefix" => "inovasi"], function () {
+    Route::group(["as" => "inovasi.", "prefix" => "cek"], function () {
         Route::get("/", "InovasiController@index")->name("index");
         Route::get("/{id}", "InovasiController@show")->name("show");
     });
@@ -247,3 +247,10 @@ Route::group(["namespace" => "App\Http\Controllers\Home", "as" => "home."], func
         Route::get("/", "VMController@index")->name("index");
     });
 });
+
+// IMAGE SHOW
+Route::get('/inovasi/image/{id}/{jenis}', [GambarController::class, 'show'])->name('image.show');
+
+
+
+

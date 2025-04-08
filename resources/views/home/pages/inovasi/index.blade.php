@@ -1,6 +1,6 @@
 @extends('home.layouts.master')
 
-@section("title", "Inovasi | BALAI UJI KIR MALANG KOTA")
+@section("title", "Cek Data Kendaraan | BALAI UJI KIR MALANG KOTA")
 
 @section("css")
 <link href="assets/css/inovasi/style.css" rel="stylesheet">
@@ -8,59 +8,23 @@
 
 @section("content")
 <div class="inov-bg">
-    {{-- <img src="{{URL::to('/')}}/assets/img/c.png" alt=""> --}}
+    {{-- Background jika ada --}}
 </div>
 
 <div class="container mt-4" style="margin-top: 80px">
-    <h1 class="text-center">Inovasi</h1>
-    <div class="gallery">
-        <div class="container mt-5">
-            <h2 class="text-center">Data Kendaraan Masuk (datarfid)</h2>
-            <table class="table table-bordered table-striped mt-3">
-                <thead>
-                    <tr>
-                        <th>No</th>
-                        <th>No Polisi</th>
-                        <th>Waktu</th>
-                        <th>Status</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @forelse ($rfid as $i => $row)
-                        <tr>
-                            <td>{{ $i + 1 }}</td>
-                            <td>{{ $row->nouji }}</td>
-                            <td>{{ $row->nama }}</td>
-                            <td>{{ $row->statuspenerbitan }}</td>
-                        </tr>
-                    @empty
-                        <tr>
-                            <td colspan="4">Tidak ada data kendaraan</td>
-                        </tr>
-                    @endforelse
-                </tbody>
-            </table>
+    <h1 class="text-center mb-4">Cek Data Kendaraan</h1>
+
+    {{-- Search Form --}}
+    <form method="GET" action="{{ route('home.inovasi.index') }}" class="d-flex gap-2 justify-content-center mb-4">
+        <input type="text" name="search" class="form-control w-50 search-input" placeholder="Masukkan No. Uji..." value="{{ request('search') }}">
+        <button class="btn btn-primary fw-bold" type="submit">CARI</button>
+    </form>
+
+    {{-- Flash error jika data tidak ditemukan --}}
+    @if(session('error'))
+        <div class="alert alert-danger text-center">
+            {{ session('error') }}
         </div>
-    </div>
+    @endif
 </div>
-
-{{-- <form id="frmTahun" method="get">
-    @csrf
-    <input type="hidden" name="year"/>
-</form> --}}
-@endsection
-
-@section("script")
-{{-- 
-<script>
-$(document).ready(function () {
-    $('#tahunList li a').on('click', function () {
-        var year = ($(this).text());
-        $("#frmTahun").attr("action", "{{ route('home.inovasi.index') }}");
-        $("#frmTahun").find('input[name="year"]').val(year);
-        $("#frmTahun").submit();
-    });
-});
-</script> 
---}}
 @endsection

@@ -27,25 +27,26 @@ class InovasiController extends Controller
         $table_menu = Menu::all();
     
         $search = $request->search;
-        $table = $this->inovasi;
+    
+        // Default: kosongkan
+        $table = collect();
+        $rfid = collect();
     
         if (!empty($search)) {
-            $table = $table->where(function($query2) use($search) {
-                $query2->where("title", "like", "%".$search."%");
-            });
+            $data = \App\Models\DBPerhubungan::where('nouji', $search)->first();
+    
+            if ($data && $data->vcode) {
+                return redirect()->away("https://ujiberkala-dstj.kemenhub.go.id/qr/v1/rfid/" . $data->vcode);
+            } else {
+                return redirect()->route('home.inovasi.index')->with('error', 'Data tidak ditemukan');
+            }
         }
     
-        $table = $table->orderBy("created_at", "DESC")->paginate(10)->withQueryString();
-    
-        $rfid = \App\Models\DBPerhubungan::limit(10)->get();
-    
         return view($this->view . "index", [
-            'table' => $table,
-            'rfid' => $rfid,
-            'table_pengaturan' => $table_pengaturan,
-            'table_menu' => $table_menu,
+            'table_pengaturan' => \App\Models\Pengaturan::first(),
+            'table_menu' => \App\Models\Menu::all(),
         ]);
-    }
+    }        
     
     public function show($id){
         $table_pengaturan = Pengaturan::first();
