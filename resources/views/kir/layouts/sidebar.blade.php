@@ -120,7 +120,7 @@
               <a href="{{route('kir.kontak.index')}}" class="nav-link @if(Str::startsWith(request()->route()->getName(), 'kir.kontak')) active @endif">
                 <i class="bx bxs-contact col-3 bx-tada-hover"></i>
                 <p>
-                  Kontak
+                  Pesan
                 </p>
               </a>
             </li>

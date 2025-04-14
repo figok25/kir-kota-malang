@@ -1,8 +1,8 @@
 @extends('kir.layouts.master')
-@section("title","Kontak ~ BALAI UJI KIR MALANG KOTA")
-@section("title_breadcumb","Kontak")
+@section("title","Pesan ~ BALAI UJI KIR MALANG KOTA")
+@section("title_breadcumb","Pesan")
 @section('breadcumb')
-    Kontak
+    Pesan
 @endsection
 @section("content")
 <div class="row">

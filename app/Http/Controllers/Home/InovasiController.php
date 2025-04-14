@@ -8,6 +8,7 @@ use App\Models\Inovasi;
 use App\Models\DBPerhubungan;
 use App\Models\Pengaturan;
 use App\Models\Menu;
+use Carbon\Carbon;
 use Illuminate\Pagination\Paginator;
 
 class InovasiController extends Controller
@@ -25,28 +26,47 @@ class InovasiController extends Controller
     {
         $table_pengaturan = Pengaturan::first();
         $table_menu = Menu::all();
-    
         $search = $request->search;
-    
-        // Default: kosongkan
         $table = collect();
         $rfid = collect();
     
         if (!empty($search)) {
-            $data = \App\Models\DBPerhubungan::where('nouji', $search)->first();
+            $table = $this->inovasi
+                ->where("title", "like", "%{$search}%")
+                ->orderBy("created_at", "DESC")
+                ->paginate(50)
+                ->withQueryString();
     
-            if ($data && $data->vcode) {
-                return redirect()->away("https://ujiberkala-dstj.kemenhub.go.id/qr/v1/rfid/" . $data->vcode);
-            } else {
-                return redirect()->route('home.inovasi.index')->with('error', 'Data tidak ditemukan');
-            }
+            $rfid = \App\Models\DBPerhubungan::whereHas('pengujian', function ($query) use ($search) {
+                    $query->where("nouji", "like", "%{$search}%");
+                })
+                ->with('pengujian')
+                ->orderBy('datarfid.tgluji', 'desc')
+                ->paginate(10)
+                ->withQueryString();
+            
+                foreach ($rfid as $row) {
+                    if (!empty($row->tgluji)) {
+                        try {
+                            $row->formatted_tgluji = Carbon::createFromFormat('dmY', $row->tgluji)->format('d-m-Y');
+                        } catch (\Exception $e) {
+                            $row->formatted_tgluji = '-'; // fallback kalau gagal parse
+                        }
+                    } else {
+                        $row->formatted_tgluji = '-';
+                    }
+                }
         }
     
         return view($this->view . "index", [
-            'table_pengaturan' => \App\Models\Pengaturan::first(),
-            'table_menu' => \App\Models\Menu::all(),
+            'table' => $table,
+            'rfid' => $rfid,
+            'table_pengaturan' => $table_pengaturan,
+            'table_menu' => $table_menu,
         ]);
-    }        
+    }
+    
+         
     
     public function show($id){
         $table_pengaturan = Pengaturan::first();
